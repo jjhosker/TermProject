@@ -1,0 +1,784 @@
+Symbol,Name,LastSale,MarketCap,MktCap,Sector,Industry,SExchange,LSymbol
+AAPL,Apple Inc.,153.46,$800.12B,800120000000.00,Technology,Computer Manufacturing,NASDAQ,aapl
+GOOGL,Alphabet Inc.,965.31,$668.84B,668840000000.00,Technology,"Computer Software: Programming, Data Processing",NASDAQ,googl
+GOOG,Alphabet Inc.,947.8,$656.71B,656710000000.00,Technology,"Computer Software: Programming, Data Processing",NASDAQ,goog
+MSFT,Microsoft Corporation,74.05,$570.78B,570780000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,msft
+AMZN,"Amazon.com, Inc.",1052.8,$503.21B,503210000000.00,Consumer Services,Catalog/Specialty Distribution,NASDAQ,amzn
+FB,"Facebook, Inc.",165.61,$479.97B,479970000000.00,Technology,"Computer Software: Programming, Data Processing",NASDAQ,fb
+BABA,Alibaba Group Holding Limited,155.79,$394.05B,394050000000.00,Miscellaneous,Business Services,NYSE,baba
+JNJ,Johnson & Johnson,130.95,$352.76B,352760000000.00,Health Care,Major Pharmaceuticals,NYSE,jnj
+XOM,Exxon Mobil Corporation,80.37,$340.55B,340550000000.00,Energy,Integrated oil Companies,NYSE,xom
+JPM,J P Morgan Chase & Co,91.93,$323.5B,323500000000.00,Finance,Major Banks,NYSE,jpm
+WFC,Wells Fargo & Company,54.91,$272.73B,272730000000.00,Finance,Major Banks,NYSE,wfc
+BAC,Bank of America Corporation,24.21,$239.15B,239150000000.00,Finance,Major Banks,NYSE,bac
+WMT,"Wal-Mart Stores, Inc.",78.9,$237.84B,237840000000.00,Consumer Services,Department/Specialty Retail Stores,NYSE,wmt
+T,AT&T Inc.,38.03,$233.5B,233500000000.00,Public Utilities,Telecommunications Equipment,NYSE,t
+V,Visa Inc.,100.85,$230.62B,230620000000.00,Miscellaneous,Business Services,NYSE,v
+PG,Procter & Gamble Company (The),89.3,$228.39B,228390000000.00,Basic Industries,Package Goods/Cosmetics,NYSE,pg
+GE,General Electric Company,25.59,$222.22B,222220000000.00,Energy,Consumer Electronics/Appliances,NYSE,ge
+CHL,China Mobile (Hong Kong) Ltd.,53.85,$220.52B,220520000000.00,Public Utilities,Telecommunications Equipment,NYSE,chl
+ORCL,Oracle Corporation,51.17,$211.67B,211670000000.00,Technology,Computer Software: Prepackaged Software,NYSE,orcl
+CVX,Chevron Corporation,105.12,$199.16B,199160000000.00,Energy,Integrated oil Companies,NYSE,cvx
+NVS,Novartis AG,84.85,$198.8B,198800000000.00,Health Care,Major Pharmaceuticals,NYSE,nvs
+HSBC,HSBC Holdings plc,49.36,$197.93B,197930000000.00,Finance,Savings Institutions,NYSE,hsbc
+PFE,"Pfizer, Inc.",32.89,$196.28B,196280000000.00,Health Care,Major Pharmaceuticals,NYSE,pfe
+KO,Coca-Cola Company (The),45.74,$195.43B,195430000000.00,Consumer Non-Durables,Beverages (Production/Distribution),NYSE,ko
+TSM,Taiwan Semiconductor Manufacturing Company Ltd.,36.22,$187.84B,187840000000.00,Technology,Semiconductors,NYSE,tsm
+CMCSA,Comcast Corporation,39.35,$186.64B,186640000000.00,Consumer Services,Television Services,NASDAQ,cmcsa
+BUD,Anheuser-Busch Inbev SA,115.71,$186.09B,186090000000.00,Consumer Non-Durables,Beverages (Production/Distribution),NYSE,bud
+C,Citigroup Inc.,67.98,$185.25B,185250000000.00,Finance,Major Banks,NYSE,c
+PM,Philip Morris International Inc,117.65,$182.73B,182730000000.00,Consumer Non-Durables,Farming/Seeds/Milling,NYSE,pm
+UNH,UnitedHealth Group Incorporated,190.75,$182.6B,182600000000.00,Health Care,Medical Specialities,NYSE,unh
+VZ,Verizon Communications Inc.,44.4,$181.12B,181120000000.00,Public Utilities,Telecommunications Equipment,NYSE,vz
+HD,"Home Depot, Inc. (The)",146.69,$175.38B,175380000000.00,Consumer Services,RETAIL: Building Materials,NYSE,hd
+MRK,"Merck & Company, Inc.",61.8,$169.03B,169030000000.00,Health Care,Major Pharmaceuticals,NYSE,mrk
+UN,Unilever NV,58.3,$168.1B,168100000000.00,Basic Industries,Package Goods/Cosmetics,NYSE,un
+DIS,Walt Disney Company (The),106.94,$167.35B,167350000000.00,Consumer Services,Television Services,NYSE,dis
+PEP,"Pepsico, Inc.",117.19,$167.06B,167060000000.00,Consumer Non-Durables,Beverages (Production/Distribution),NYSE,pep
+TM,Toyota Motor Corp Ltd Ord,110.77,$164.76B,164760000000.00,Capital Goods,Auto Manufacturing,NYSE,tm
+UL,Unilever PLC,57.08,$164.58B,164580000000.00,Basic Industries,Package Goods/Cosmetics,NYSE,ul
+INTC,Intel Corporation,34.75,$163.64B,163640000000.00,Technology,Semiconductors,NASDAQ,intc
+CSCO,"Cisco Systems, Inc.",31.66,$158.3B,158300000000.00,Technology,Computer Communications Equipment,NASDAQ,csco
+BTI,British American Tobacco p.l.c.,68.7,$157.56B,157560000000.00,Consumer Non-Durables,Farming/Seeds/Milling,NYSE,bti
+MA,Mastercard Incorporated,130.99,$145.25B,145250000000.00,Miscellaneous,Business Services,NYSE,ma
+BA,Boeing Company (The),233.45,$140.91B,140910000000.00,Capital Goods,Aerospace,NYSE,ba
+MO,Altria Group,71.73,$138.56B,138560000000.00,Consumer Non-Durables,Farming/Seeds/Milling,NYSE,mo
+IBM,International Business Machines Corporation,145.36,$135.47B,135470000000.00,Technology,Computer Manufacturing,NYSE,ibm
+AMGN,Amgen Inc.,175.89,$128.58B,128580000000.00,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),NASDAQ,amgn
+MCD,McDonald&#39;s Corporation,156.51,$127.57B,127570000000.00,Consumer Services,Restaurants,NYSE,mcd
+SAP,SAP SE,105.26,$126.17B,126170000000.00,Technology,Computer Software: Prepackaged Software,NYSE,sap
+SNY,Sanofi,48.02,$124.09B,124090000000.00,Health Care,Major Pharmaceuticals,NYSE,sny
+TOT,Total S.A.,50.39,$123.12B,123120000000.00,Energy,Oil & Gas Production,NYSE,tot
+PTR,PetroChina Company Limited,65.3,$119.51B,119510000000.00,Energy,Oil & Gas Production,NYSE,ptr
+MMM,3M Company,199.03,$118.77B,118770000000.00,Health Care,Medical/Dental Instruments,NYSE,mmm
+MDT,Medtronic plc,85.74,$116.52B,116520000000.00,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,NYSE,mdt
+ABBV,AbbVie Inc.,72.59,$115.53B,115530000000.00,Health Care,Major Pharmaceuticals,NYSE,abbv
+BP,BP p.l.c.,34.84,$114.19B,114190000000.00,Energy,Integrated oil Companies,NYSE,bp
+TIG,TiGenix,21.0239,$109.31B,109310000000.00,Health Care,Major Pharmaceuticals,NASDAQ,tig
+RY,Royal Bank Of Canada,74.89,$109.17B,109170000000.00,Finance,Commercial Banks,NYSE,ry
+BHP,BHP Billiton Limited,40.76,$108.47B,108470000000.00,Basic Industries,Precious Metals,NYSE,bhp
+CELG,Celgene Corporation,137.75,$107.56B,107560000000.00,Health Care,Major Pharmaceuticals,NASDAQ,celg
+NVO,Novo Nordisk A/S,41.99,$107.07B,107070000000.00,Health Care,Major Pharmaceuticals,NYSE,nvo
+KHC,The Kraft Heinz Company,87.66,$106.74B,106740000000.00,Consumer Non-Durables,Packaged Foods,NASDAQ,khc
+HON,Honeywell International Inc.,138.49,$105.33B,105330000000.00,Capital Goods,Auto Parts:O.E.M.,NYSE,hon
+AVGO,Broadcom Limited,257.01,$104.5B,104500000000.00,Technology,Semiconductors,NASDAQ,avgo
+GSK,GlaxoSmithKline PLC,40.85,$100.45B,100450000000.00,Health Care,Major Pharmaceuticals,NYSE,gsk
+SAN,"Banco Santander, S.A.",6.75,$100.08B,100080000000.00,Finance,Commercial Banks,NYSE,san
+PCLN,The Priceline Group Inc. ,2033.21,$99.92B,99920000000.00,Miscellaneous,Business Services,NASDAQ,pcln
+NVDA,NVIDIA Corporation,167.26,$99.52B,99520000000.00,Technology,Semiconductors,NASDAQ,nvda
+UPS,"United Parcel Service, Inc.",112.29,$97.44B,97440000000.00,Transportation,Trucking Freight/Courier Services,NYSE,ups
+GILD,"Gilead Sciences, Inc.",74.19,$96.95B,96950000000.00,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),NASDAQ,gild
+TD,Toronto Dominion Bank (The),51.92,$95.92B,95920000000.00,Finance,Commercial Banks,NYSE,td
+NKE,"Nike, Inc.",58.36,$95.9B,95900000000.00,Consumer Non-Durables,Shoe Manufacturing,NYSE,nke
+UTX,United Technologies Corporation,119.54,$95.78B,95780000000.00,Capital Goods,Aerospace,NYSE,utx
+SNP,China Petroleum & Chemical Corporation,77.38,$93.68B,93680000000.00,Energy,Integrated oil Companies,NYSE,snp
+CHTR,"Charter Communications, Inc.",348.77,$93.31B,93310000000.00,Consumer Services,Television Services,NASDAQ,chtr
+ABEV,Ambev S.A.,5.94,$93.28B,93280000000.00,Consumer Non-Durables,Beverages (Production/Distribution),NYSE,abev
+SLB,Schlumberger N.V.,66.99,$92.78B,92780000000.00,Energy,Oilfield Services/Equipment,NYSE,slb
+BMY,Bristol-Myers Squibb Company,55.98,$92.22B,92220000000.00,Health Care,Major Pharmaceuticals,NYSE,bmy
+LFC,China Life Insurance Company Limited,16.12,$91.13B,91130000000.00,Finance,Life Insurance,NYSE,lfc
+LLY,Eli Lilly and Company,81.84,$90.3B,90300000000.00,Health Care,Major Pharmaceuticals,NYSE,lly
+USB,U.S. Bancorp,52.43,$88.03B,88030000000.00,Finance,Major Banks,NYSE,usb
+GS,"Goldman Sachs Group, Inc. (The)",222.25,$87.48B,87480000000.00,Finance,Investment Bankers/Brokers/Service,NYSE,gs
+ABT,Abbott Laboratories,50.4,$87.46B,87460000000.00,Health Care,Major Pharmaceuticals,NYSE,abt
+WBK,Westpac Banking Corporation,25.97,$86.75B,86750000000.00,Finance,Commercial Banks,NYSE,wbk
+DCM,"NTT DOCOMO, Inc",23.23,$86.06B,86060000000.00,Technology,Radio And Television Broadcasting And Communications Equipment,NYSE,dcm
+AGN,Allergan plc.,256.15,$86.03B,86030000000.00,Health Care,Major Pharmaceuticals,NYSE,agn
+AZN,Astrazeneca PLC,33.94,$85.94B,85940000000.00,Health Care,Major Pharmaceuticals,NYSE,azn
+MTU,Mitsubishi UFJ Financial Group Inc,6.34,$85.14B,85140000000.00,Finance,Commercial Banks,NYSE,mtu
+MS,Morgan Stanley,47.21,$84.98B,84980000000.00,Finance,Investment Bankers/Brokers/Service,NYSE,ms
+WBA,"Walgreens Boots Alliance, Inc.",78.68,$84.2B,84200000000.00,Health Care,Medical/Nursing Services,NASDAQ,wba
+SBUX,Starbucks Corporation,57.94,$83.9B,83900000000.00,Consumer Services,Restaurants,NASDAQ,sbux
+UNP,Union Pacific Corporation,104.42,$83.58B,83580000000.00,Transportation,Railroads,NYSE,unp
+LMT,Lockheed Martin Corporation,289.85,$83.47B,83470000000.00,Capital Goods,Military/Government/Technical,NYSE,lmt
+ACN,Accenture plc,129.51,$82.73B,82730000000.00,Miscellaneous,Business Services,NYSE,acn
+TXN,Texas Instruments Incorporated,82.53,$82.23B,82230000000.00,Technology,Semiconductors,NASDAQ,txn
+HDB,HDFC Bank Limited,96.32,$81.73B,81730000000.00,Finance,Commercial Banks,NYSE,hdb
+NFLX,"Netflix, Inc.",189.08,$81.64B,81640000000.00,Consumer Services,Consumer Electronics/Video Chains,NASDAQ,nflx
+DOW,Dow Chemical Company (The),66.42,$81.15B,81150000000.00,Basic Industries,Major Chemicals,NYSE,dow
+CVS,CVS Health Corporation,78.29,$79.76B,79760000000.00,Health Care,Medical/Nursing Services,NYSE,cvs
+TWX,Time Warner Inc.,101.65,$78.83B,78830000000.00,Consumer Services,Television Services,NYSE,twx
+QCOM,QUALCOMM Incorporated,53.14,$78.44B,78440000000.00,Technology,Radio And Television Broadcasting And Communications Equipment,NASDAQ,qcom
+VOD,Vodafone Group Plc,29.17,$77.66B,77660000000.00,Public Utilities,Telecommunications Equipment,NASDAQ,vod
+ITUB,Itau Unibanco Banco Holding SA,11.72,$76.33B,76330000000.00,Finance,Major Banks,NYSE,itub
+DEO,Diageo plc,120.61,$75.88B,75880000000.00,Consumer Non-Durables,Beverages (Production/Distribution),NYSE,deo
+AXP,American Express Company,85.3,$75.4B,75400000000.00,Finance,Finance: Consumer Services,NYSE,axp
+BNS,Bank of Nova Scotia (The),62.24,$74.57B,74570000000.00,Finance,Major Banks,NYSE,bns
+ADBE,Adobe Systems Incorporated,149.78,$73.9B,73900000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,adbe
+DD,E.I. du Pont de Nemours and Company,84.81,$73.6B,73600000000.00,Basic Industries,Major Chemicals,NYSE,dd
+ING,"ING Group, N.V.",18.43,$71.48B,71480000000.00,Finance,Commercial Banks,NYSE,ing
+PYPL,"PayPal Holdings, Inc.",58.79,$70.62B,70620000000.00,Miscellaneous,Business Services,NASDAQ,pypl
+BLK,"BlackRock, Inc.",432.71,$69.95B,69950000000.00,Finance,Investment Bankers/Brokers/Service,NYSE,blk
+BIDU,"Baidu, Inc.",201.17,$69.78B,69780000000.00,Technology,"Computer Software: Programming, Data Processing",NASDAQ,bidu
+TMO,Thermo Fisher Scientific Inc,175.06,$68.49B,68490000000.00,Capital Goods,Industrial Machinery/Components,NYSE,tmo
+ENB,Enbridge Inc,41.73,$68.39B,68390000000.00,Energy,Natural Gas Distribution,NYSE,enb
+NEE,"NextEra Energy, Inc.",145.49,$68.11B,68110000000.00,Public Utilities,Electric Utilities: Central,NYSE,nee
+UBS,UBS AG,18.11,$67.26B,67260000000.00,Finance,Major Banks,NYSE,ubs
+MDLZ,"Mondelez International, Inc.",44.22,$67.09B,67090000000.00,Consumer Non-Durables,Packaged Foods,NASDAQ,mdlz
+CB,D/B/A Chubb Limited New,143.9,$66.97B,66970000000.00,Finance,Property-Casualty Insurers,NYSE,cb
+CAT,"Caterpillar, Inc.",113.52,$66.88B,66880000000.00,Capital Goods,Construction/Ag Equipment/Trucks,NYSE,cat
+COST,Costco Wholesale Corporation,152.09,$66.71B,66710000000.00,Consumer Services,Department/Specialty Retail Stores,NASDAQ,cost
+ASML,ASML Holding N.V.,154.53,$66.53B,66530000000.00,Technology,Industrial Machinery/Components,NASDAQ,asml
+LYG,Lloyds Banking Group Plc,3.65,$65.2B,65200000000.00,Finance,Commercial Banks,NYSE,lyg
+JD,"JD.com, Inc.",45.87,$65.11B,65110000000.00,Consumer Services,Other Specialty Stores,NASDAQ,jd
+CRM,Salesforce.com Inc,91.07,$64.86B,64860000000.00,Technology,Computer Software: Prepackaged Software,NYSE,crm
+CL,Colgate-Palmolive Company,73,$64.3B,64300000000.00,Consumer Non-Durables,Package Goods/Cosmetics,NYSE,cl
+LOW,"Lowe&#39;s Companies, Inc.",75.98,$64.14B,64140000000.00,Consumer Services,RETAIL: Building Materials,NYSE,low
+RIO,Rio Tinto Plc,46.02,$63.72B,63720000000.00,Basic Industries,Precious Metals,NYSE,rio
+BIIB,Biogen Inc.,295.61,$62.5B,62500000000.00,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),NASDAQ,biib
+BSBR,Banco Santander Brasil SA,8.24,$61.97B,61970000000.00,Finance,Commercial Banks,NYSE,bsbr
+PUK,Prudential Public Limited Company,47.95,$61.88B,61880000000.00,Finance,Life Insurance,NYSE,puk
+PNC,"PNC Financial Services Group, Inc. (The)",127.36,$61.13B,61130000000.00,Finance,Major Banks,NYSE,pnc
+AIG,"American International Group, Inc.",65.19,$60.11B,60110000000.00,Finance,Property-Casualty Insurers,NYSE,aig
+CNI,Canadian National Railway Company,79.59,$60B,60000000000.00,Transportation,Railroads,NYSE,cni
+AMX,"America Movil, S.A.B. de C.V.",17.95,$59.24B,59240000000.00,Public Utilities,Telecommunications Equipment,NYSE,amx
+DUK,Duke Energy Corporation,84.45,$59.11B,59110000000.00,Public Utilities,Power Generation,NYSE,duk
+EPD,Enterprise Products Partners L.P.,27.6,$59.11B,59110000000.00,Public Utilities,Natural Gas Distribution,NYSE,epd
+AMOV,"America Movil, S.A.B. de C.V.",17.88,$59.01B,59010000000.00,Public Utilities,Telecommunications Equipment,NASDAQ,amov
+AMOV,"America Movil, S.A.B. de C.V.",17.88,$59.01B,59010000000.00,Public Utilities,Telecommunications Equipment,NYSE,amov
+MET,"MetLife, Inc.",54.73,$58.89B,58890000000.00,Finance,Life Insurance,NYSE,met
+GD,General Dynamics Corporation,194.66,$58.73B,58730000000.00,Capital Goods,Marine Transportation,NYSE,gd
+AMT,American Tower Corporation (REIT),137.87,$58.6B,58600000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,amt
+BBVA,Banco Bilbao Viscaya Argentaria S.A.,8.92,$58.57B,58570000000.00,Finance,Commercial Banks,NYSE,bbva
+STO,Statoil ASA,17.87,$57.99B,57990000000.00,Energy,Integrated oil Companies,NYSE,sto
+BBD,Banco Bradesco Sa,9.43,$57.38B,57380000000.00,Finance,Major Banks,NYSE,bbd
+FDX,FedEx Corporation,213.63,$57.31B,57310000000.00,Transportation,Air Freight/Delivery Services,NYSE,fdx
+SCHW,The Charles Schwab Corporation,42.78,$57.2B,57200000000.00,Finance,Investment Bankers/Brokers/Service,NYSE,schw
+DHR,Danaher Corporation,82.01,$56.97B,56970000000.00,Capital Goods,Industrial Machinery/Components,NYSE,dhr
+BBDO,Banco Bradesco Sa,9.32,$56.71B,56710000000.00,Finance,Major Banks,NYSE,bbdo
+TSLA,"Tesla, Inc. ",343.85,$56.48B,56480000000.00,Capital Goods,Auto Manufacturing,NASDAQ,tsla
+E,ENI S.p.A.,31.05,$56.42B,56420000000.00,Energy,Oil & Gas Production,NYSE,e
+PBR,Petroleo Brasileiro S.A.- Petrobras,8.63,$56.29B,56290000000.00,Energy,Oil & Gas Production,NYSE,pbr
+TEF,Telefonica SA,10.98,$55.32B,55320000000.00,Public Utilities,Telecommunications Equipment,NYSE,tef
+BK,Bank Of New York Mellon Corporation (The),53.39,$55.16B,55160000000.00,Finance,Major Banks,NYSE,bk
+REGN,"Regeneron Pharmaceuticals, Inc.",515.63,$54.81B,54810000000.00,Health Care,Major Pharmaceuticals,NASDAQ,regn
+EOG,"EOG Resources, Inc.",94.75,$54.7B,54700000000.00,Energy,Oil & Gas Production,NYSE,eog
+SYK,Stryker Corporation,145.75,$54.48B,54480000000.00,Health Care,Medical/Dental Instruments,NYSE,syk
+COP,ConocoPhillips,43.7,$54.06B,54060000000.00,Energy,Integrated oil Companies,NYSE,cop
+SMFG,Sumitomo Mitsui Financial Group Inc,7.59,$53.51B,53510000000.00,Finance,Commercial Banks,NYSE,smfg
+QQQ,"PowerShares QQQ Trust, Series 1",144.87,$53.44B,53440000000.00,NA,NA,NASDAQ,qqq
+AABA,Altaba Inc.,58.9,$52.7B,52700000000.00,Technology,EDP Services,NASDAQ,aaba
+SU,Suncor Energy  Inc.,31.4,$52.24B,52240000000.00,Energy,Integrated oil Companies,NYSE,su
+GM,General Motors Company,35.62,$51.91B,51910000000.00,Capital Goods,Auto Manufacturing,NYSE,gm
+TMUS,"T-Mobile US, Inc.",62.39,$51.85B,51850000000.00,Public Utilities,Telecommunications Equipment,NASDAQ,tmus
+FOX,"Twenty-First Century Fox, Inc.",27.92,$51.68B,51680000000.00,Consumer Services,Television Services,NASDAQ,fox
+AET,Aetna Inc.,155.69,$51.64B,51640000000.00,Health Care,Medical Specialities,NYSE,aet
+MON,Monsanto Company,117.3,$51.53B,51530000000.00,Basic Industries,Agricultural Chemicals,NYSE,mon
+SNE,Sony Corp Ord,40.8,$51.52B,51520000000.00,Consumer Non-Durables,Consumer Electronics/Appliances,NYSE,sne
+SHPG,Shire plc,169.8,$51.39B,51390000000.00,Health Care,Major Pharmaceuticals,NASDAQ,shpg
+SPG,"Simon Property Group, Inc.",163.77,$51.13B,51130000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,spg
+AMAT,"Applied Materials, Inc.",47.45,$50.99B,50990000000.00,Technology,Semiconductors,NASDAQ,amat
+BMO,Bank Of Montreal,76.92,$50.16B,50160000000.00,Finance,Commercial Banks,NYSE,bmo
+ABB,ABB Ltd,23.39,$49.91B,49910000000.00,Consumer Durables,Electrical Products,NYSE,abb
+HMC,"Honda Motor Company, Ltd.",27.6,$49.74B,49740000000.00,Capital Goods,Auto Manufacturing,NYSE,hmc
+RTN,Raytheon Company,168.88,$49.16B,49160000000.00,Capital Goods,Industrial Machinery/Components,NYSE,rtn
+ANTM,"Anthem, Inc.",184.99,$49.02B,49020000000.00,Health Care,Medical Specialities,NYSE,antm
+LVS,Las Vegas Sands Corp.,61.65,$48.84B,48840000000.00,Consumer Services,Hotels/Resorts,NYSE,lvs
+D,"Dominion Energy, Inc.",77.05,$48.46B,48460000000.00,Public Utilities,Electric Utilities: Central,NYSE,d
+ITW,Illinois Tool Works Inc.,140.07,$48.39B,48390000000.00,Technology,Industrial Machinery/Components,NYSE,itw
+VALE,VALE S.A.,9.39,$48.39B,48390000000.00,Basic Industries,Precious Metals,NYSE,vale
+CUK,Carnival Corporation,67.19,$48.38B,48380000000.00,Consumer Services,Marine Transportation,NYSE,cuk
+PRU,"Prudential Financial, Inc.",112.19,$48.13B,48130000000.00,Finance,Life Insurance,NYSE,pru
+CCL,Carnival Corporation,66.7,$48.03B,48030000000.00,Consumer Services,Marine Transportation,NYSE,ccl
+CSX,CSX Corporation,52.06,$47.55B,47550000000.00,Transportation,Railroads,NASDAQ,csx
+ADP,"Automatic Data Processing, Inc.",105.98,$47.42B,47420000000.00,Technology,EDP Services,NASDAQ,adp
+ATVI,"Activision Blizzard, Inc",62.64,$47.21B,47210000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,atvi
+SO,Southern Company (The),47.4,$47.14B,47140000000.00,Public Utilities,Electric Utilities: Central,NYSE,so
+OXY,Occidental Petroleum Corporation,61.59,$47.09B,47090000000.00,Energy,Oil & Gas Production,NYSE,oxy
+BCS,Barclays PLC,11.04,$46.86B,46860000000.00,Finance,Commercial Banks,NYSE,bcs
+BDX,"Becton, Dickinson and Company",202.72,$46.09B,46090000000.00,Health Care,Medical/Dental Instruments,NYSE,bdx
+NOC,Northrop Grumman Corporation,263.86,$46.06B,46060000000.00,Capital Goods,Industrial Machinery/Components,NYSE,noc
+KMI,"Kinder Morgan, Inc.",20.34,$45.42B,45420000000.00,Public Utilities,Natural Gas Distribution,NYSE,kmi
+MFG,"Mizuho Financial Group, Inc.",3.56,$45.15B,45150000000.00,Finance,Major Banks,NYSE,mfg
+NGG,"National Grid Transco, PLC",62.71,$45.11B,45110000000.00,Public Utilities,Natural Gas Distribution,NYSE,ngg
+ORAN,Orange,16.84,$44.79B,44790000000.00,Public Utilities,Telecommunications Equipment,NYSE,oran
+TRP,TransCanada Corporation,51.34,$44.72B,44720000000.00,Public Utilities,Natural Gas Distribution,NYSE,trp
+RELX,RELX PLC,21.79,$44.51B,44510000000.00,Consumer Services,Publishing,NYSE,relx
+CI,Cigna Corporation,173.57,$44.44B,44440000000.00,Health Care,Medical Specialities,NYSE,ci
+TJX,"TJX Companies, Inc. (The)",68.47,$44.05B,44050000000.00,Consumer Services,Clothing/Shoe/Accessory Stores,NYSE,tjx
+F,Ford Motor Company,11.06,$44.04B,44040000000.00,Capital Goods,Auto Manufacturing,NYSE,f
+PSX,Phillips 66,83.7,$43.2B,43200000000.00,Energy,Integrated oil Companies,NYSE,psx
+KMB,Kimberly-Clark Corporation,122.24,$43.19B,43190000000.00,Consumer Durables,Containers/Packaging,NYSE,kmb
+SYT,Syngenta AG,92.2,$42.51B,42510000000.00,Basic Industries,Agricultural Chemicals,NYSE,syt
+RENX,RELX N.V.,20.71,$42.3B,42300000000.00,Consumer Services,Publishing,NYSE,renx
+BCE,"BCE, Inc.",46.81,$42.14B,42140000000.00,Public Utilities,Telecommunications Equipment,NYSE,bce
+COF,Capital One Financial Corporation,85.71,$41.46B,41460000000.00,Finance,Major Banks,NYSE,cof
+CME,CME Group Inc.,121.83,$41.4B,41400000000.00,Finance,Investment Bankers/Brokers/Service,NASDAQ,cme
+BX,The Blackstone Group L.P.,34.49,$41.33B,41330000000.00,Finance,Investment Managers,NYSE,bx
+CTSH,Cognizant Technology Solutions Corporation,70.05,$41.26B,41260000000.00,Technology,EDP Services,NASDAQ,ctsh
+MMC,"Marsh & McLennan Companies, Inc.",80.22,$41.25B,41250000000.00,Finance,Specialty Insurers,NYSE,mmc
+BT,BT Group plc,20.56,$40.99B,40990000000.00,Public Utilities,Telecommunications Equipment,NYSE,bt
+NTES,"NetEase, Inc.",312.15,$40.97B,40970000000.00,Miscellaneous,Business Services,NASDAQ,ntes
+DE,Deere & Company,127.82,$40.88B,40880000000.00,Capital Goods,Industrial Machinery/Components,NYSE,de
+VRTX,Vertex Pharmaceuticals Incorporated,163.42,$40.7B,40700000000.00,Health Care,Major Pharmaceuticals,NASDAQ,vrtx
+JCI,Johnson Controls International plc,43.32,$40.64B,40640000000.00,Consumer Services,Other Consumer Services,NYSE,jci
+MFC,Manulife Financial Corp,20.37,$40.28B,40280000000.00,Finance,Life Insurance,NYSE,mfc
+WPZ,Williams Partners LP,41,$39.87B,39870000000.00,Public Utilities,Natural Gas Distribution,NYSE,wpz
+SPGI,S&P Global Inc.,154.58,$39.85B,39850000000.00,Finance,Finance: Consumer Services,NYSE,spgi
+EBAY,eBay Inc.,37.04,$39.64B,39640000000.00,Miscellaneous,Business Services,NASDAQ,ebay
+RBS,Royal Bank Scotland plc (The),6.7,$39.58B,39580000000.00,Finance,Commercial Banks,NYSE,rbs
+DB,Deutsche Bank AG,19.06,$39.37B,39370000000.00,Finance,Major Banks,NYSE,db
+ICE,Intercontinental Exchange Inc.,66.34,$39.28B,39280000000.00,Finance,Investment Bankers/Brokers/Service,NYSE,ice
+CS,Credit Suisse Group,15.35,$39.23B,39230000000.00,Finance,Investment Bankers/Brokers/Service,NYSE,cs
+MAR,Marriott International,103.04,$39.04B,39040000000.00,Consumer Services,Hotels/Resorts,NASDAQ,mar
+CHA,China Telecom Corp Ltd,48.09,$38.92B,38920000000.00,Public Utilities,Telecommunications Equipment,NYSE,cha
+BAM,Brookfield Asset Management Inc,39.21,$38.77B,38770000000.00,Consumer Services,Building operators,NYSE,bam
+EMR,Emerson Electric Company,59.8,$38.54B,38540000000.00,Energy,Consumer Electronics/Appliances,NYSE,emr
+PX,"Praxair, Inc.",135.03,$38.53B,38530000000.00,Basic Industries,Major Chemicals,NYSE,px
+ECL,Ecolab Inc.,132.45,$38.42B,38420000000.00,Basic Industries,Package Goods/Cosmetics,NYSE,ecl
+BBT,BB&T Corporation,46.75,$37.78B,37780000000.00,Finance,Major Banks,NYSE,bbt
+STZ,Constellation Brands Inc,193.38,$37.77B,37770000000.00,Consumer Non-Durables,Beverages (Production/Distribution),NYSE,stz
+VMW,"Vmware, Inc.",92.36,$37.72B,37720000000.00,Technology,Computer Software: Prepackaged Software,NYSE,vmw
+BBL,BHP Billiton plc,35.62,$37.6B,37600000000.00,Energy,Coal Mining,NYSE,bbl
+HAL,Halliburton Company,43.32,$37.6B,37600000000.00,Energy,Oilfield Services/Equipment,NYSE,hal
+CM,Canadian Imperial Bank of Commerce,86.14,$37.58B,37580000000.00,Finance,Commercial Banks,NYSE,cm
+BSX,Boston Scientific Corporation,27.42,$37.55B,37550000000.00,Health Care,Medical/Dental Instruments,NYSE,bsx
+CAJ,"Canon, Inc.",34.34,$37.5B,37500000000.00,Miscellaneous,Industrial Machinery/Components,NYSE,caj
+CNQ,Canadian Natural Resources Limited,30.79,$37.41B,37410000000.00,Energy,Oil & Gas Production,NYSE,cnq
+NXPI,NXP Semiconductors N.V.,109.93,$37.04B,37040000000.00,Technology,Semiconductors,NASDAQ,nxpi
+DAL,"Delta Air Lines, Inc.",51.13,$37.02B,37020000000.00,Transportation,Air Freight/Delivery Services,NYSE,dal
+ESRX,Express Scripts Holding Company,63.47,$36.66B,36660000000.00,Health Care,Medical/Nursing Services,NASDAQ,esrx
+EA,Electronic Arts Inc.,118,$36.53B,36530000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,ea
+PSA,Public Storage,210.06,$36.52B,36520000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,psa
+CCI,Crown Castle International Corporation,99.56,$36.45B,36450000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,cci
+AON,Aon plc,138.95,$36.41B,36410000000.00,Finance,Specialty Insurers,NYSE,aon
+EL,"Estee Lauder Companies, Inc. (The)",98.92,$36.39B,36390000000.00,Consumer Non-Durables,Package Goods/Cosmetics,NYSE,el
+INFY,Infosys Limited,15.91,$36.37B,36370000000.00,Technology,EDP Services,NYSE,infy
+FMX,Fomento Economico Mexicano S.A.B. de C.V.,101.03,$36.15B,36150000000.00,Consumer Non-Durables,Beverages (Production/Distribution),NYSE,fmx
+NOK,Nokia Corporation,6.17,$36.01B,36010000000.00,Technology,Radio And Television Broadcasting And Communications Equipment,NYSE,nok
+LUV,Southwest Airlines Company,59.52,$35.99B,35990000000.00,Transportation,Air Freight/Delivery Services,NYSE,luv
+PHG,Koninklijke Philips N.V.,38.11,$35.71B,35710000000.00,Energy,Consumer Electronics/Appliances,NYSE,phg
+STT,State Street Corporation,94.28,$35.47B,35470000000.00,Finance,Major Banks,NYSE,stt
+ETN,"Eaton Corporation, PLC",79,$35.34B,35340000000.00,Technology,Industrial Machinery/Components,NYSE,etn
+CHU,China Unicom (Hong Kong) Ltd,14.75,$35.32B,35320000000.00,Public Utilities,Telecommunications Equipment,NYSE,chu
+LYB,LyondellBasell Industries NV,87.34,$35.18B,35180000000.00,Basic Industries,Major Chemicals,NYSE,lyb
+MCK,McKesson Corporation,166.35,$35.18B,35180000000.00,Health Care,Other Pharmaceuticals,NYSE,mck
+INTU,Intuit Inc.,137.14,$35.14B,35140000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,intu
+ISRG,"Intuitive Surgical, Inc.",943.91,$35.07B,35070000000.00,Health Care,Industrial Specialties,NASDAQ,isrg
+EXC,Exelon Corporation,37.68,$34.9B,34900000000.00,Public Utilities,Power Generation,NYSE,exc
+TRV,"The Travelers Companies, Inc.",126,$34.77B,34770000000.00,Finance,Property-Casualty Insurers,NYSE,trv
+PCG,Pacific Gas & Electric Co.,67.9,$34.7B,34700000000.00,Public Utilities,Power Generation,NYSE,pcg
+TLK,"PT Telekomunikasi Indonesia, Tbk",34.93,$34.6B,34600000000.00,Public Utilities,Telecommunications Equipment,NYSE,tlk
+FOXA,"Twenty-First Century Fox, Inc.",28.18,$34.41B,34410000000.00,Consumer Services,Television Services,NASDAQ,foxa
+EQIX,"Equinix, Inc.",440.04,$34.28B,34280000000.00,Consumer Services,Real Estate Investment Trusts,NASDAQ,eqix
+AEP,"American Electric Power Company, Inc.",69.45,$34.15B,34150000000.00,Public Utilities,Electric Utilities: Central,NYSE,aep
+S,Sprint Corporation,8.55,$34.15B,34150000000.00,Public Utilities,Telecommunications Equipment,NYSE,s
+NSC,Norfolk Souther Corporation,116.41,$33.73B,33730000000.00,Transportation,Railroads,NYSE,nsc
+HUM,Humana Inc.,233.5,$33.7B,33700000000.00,Health Care,Medical Specialities,NYSE,hum
+TEVA,Teva Pharmaceutical Industries Limited,33.04,$33.57B,33570000000.00,Health Care,Major Pharmaceuticals,NYSE,teva
+BAX,Baxter International Inc.,61.22,$33.28B,33280000000.00,Health Care,Medical/Dental Instruments,NYSE,bax
+MU,"Micron Technology, Inc.",29.81,$33.21B,33210000000.00,Technology,Semiconductors,NASDAQ,mu
+WM,"Waste Management, Inc.",74.66,$33B,33000000000.00,Public Utilities,Environmental Services,NYSE,wm
+TRI,Thomson Reuters Corp,45.95,$32.92B,32920000000.00,Consumer Services,Publishing,NYSE,tri
+SHW,Sherwin-Williams Company (The),350.6,$32.65B,32650000000.00,Consumer Services,RETAIL: Building Materials,NYSE,shw
+HPQ,HP Inc.,19.26,$32.42B,32420000000.00,Technology,Computer Manufacturing,NYSE,hpq
+PLD,"Prologis, Inc.",61.14,$32.42B,32420000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,pld
+GIS,"General Mills, Inc.",55.13,$31.82B,31820000000.00,Consumer Non-Durables,Packaged Foods,NYSE,gis
+APD,"Air Products and Chemicals, Inc.",143.9,$31.33B,31330000000.00,Basic Industries,Major Chemicals,NYSE,apd
+SCCO,Southern Copper Corporation,39.72,$30.7B,30700000000.00,Basic Industries,Precious Metals,NYSE,scco
+CTRP,"Ctrip.com International, Ltd.",59.72,$30.65B,30650000000.00,Miscellaneous,Business Services,NASDAQ,ctrp
+ZTS,Zoetis Inc.,62.06,$30.46B,30460000000.00,Health Care,Major Pharmaceuticals,NYSE,zts
+MNST,Monster Beverage Corporation,53.57,$30.42B,30420000000.00,Consumer Non-Durables,Beverages (Production/Distribution),NASDAQ,mnst
+VLO,Valero Energy Corporation,67.99,$30.41B,30410000000.00,Energy,Integrated oil Companies,NYSE,vlo
+TGT,Target Corporation,54.96,$30.32B,30320000000.00,Consumer Services,Department/Specialty Retail Stores,NYSE,tgt
+FIS,"Fidelity National Information Services, Inc.",90.69,$29.98B,29980000000.00,Miscellaneous,Business Services,NYSE,fis
+HCA,"HCA Healthcare, Inc.",81.63,$29.95B,29950000000.00,Health Care,Hospital/Nursing Management,NYSE,hca
+DISH,DISH Network Corporation,64.27,$29.94B,29940000000.00,Consumer Services,Television Services,NASDAQ,dish
+WIT,Wipro Limited,6.16,$29.81B,29810000000.00,Technology,EDP Services,NYSE,wit
+CRH,CRH PLC,35.64,$29.67B,29670000000.00,Capital Goods,Building Materials,NYSE,crh
+ADI,"Analog Devices, Inc.",80.72,$29.63B,29630000000.00,Technology,Semiconductors,NASDAQ,adi
+ALXN,"Alexion Pharmaceuticals, Inc.",131.07,$29.43B,29430000000.00,Health Care,Major Pharmaceuticals,NASDAQ,alxn
+FMS,Fresenius Medical Care Corporation,47.55,$29.13B,29130000000.00,Health Care,Hospital/Nursing Management,NYSE,fms
+HPE,Hewlett Packard Enterprise Company,17.61,$28.93B,28930000000.00,Technology,Computer Manufacturing,NYSE,hpe
+MPC,Marathon Petroleum Corporation,55.66,$28.87B,28870000000.00,Energy,Integrated oil Companies,NYSE,mpc
+TEL,TE Connectivity Ltd.,80.65,$28.63B,28630000000.00,Consumer Non-Durables,Electronic Components,NYSE,tel
+SRE,Sempra Energy,113.33,$28.43B,28430000000.00,Public Utilities,Natural Gas Distribution,NYSE,sre
+LBTYA,Liberty Global plc,33.04,$28.33B,28330000000.00,Consumer Services,Television Services,NASDAQ,lbtya
+INCY,Incyte Corporation,137.19,$28.09B,28090000000.00,Health Care,Biotechnology: Commercial Physical & Biological Resarch,NASDAQ,incy
+GLW,Corning Incorporated,30.42,$27.99B,27990000000.00,Basic Industries,Telecommunications Equipment,NYSE,glw
+RYAAY,Ryanair Holdings plc,115.95,$27.99B,27990000000.00,Transportation,Air Freight/Delivery Services,NASDAQ,ryaay
+SYY,Sysco Corporation,52.11,$27.89B,27890000000.00,Consumer Non-Durables,Food Distributors,NYSE,syy
+CMI,Cummins Inc.,165.97,$27.88B,27880000000.00,Energy,Industrial Machinery/Components,NYSE,cmi
+ETP,"Energy Transfer Partners, L.P.",20.22,$27.68B,27680000000.00,Energy,Natural Gas Distribution,NYSE,etp
+PXD,Pioneer Natural Resources Company,162.6,$27.66B,27660000000.00,Energy,Oil & Gas Production,NYSE,pxd
+LBTYK,Liberty Global plc,32.04,$27.47B,27470000000.00,Consumer Services,Television Services,NASDAQ,lbtyk
+PPG,"PPG Industries, Inc.",106.75,$27.38B,27380000000.00,Basic Industries,Paints/Coatings,NYSE,ppg
+STI,"SunTrust Banks, Inc.",56.73,$27.32B,27320000000.00,Finance,Major Banks,NYSE,sti
+LRCX,Lam Research Corporation,168.34,$27.16B,27160000000.00,Technology,Industrial Machinery/Components,NASDAQ,lrcx
+WDC,Western Digital Corporation,92.96,$27.07B,27070000000.00,Technology,Electronic Components,NASDAQ,wdc
+CBS,CBS Corporation,66.62,$27.04B,27040000000.00,Consumer Services,Broadcasting,NYSE,cbs
+PGR,Progressive Corporation (The),46.51,$27.02B,27020000000.00,Finance,Property-Casualty Insurers,NYSE,pgr
+FISV,"Fiserv, Inc.",127.01,$26.97B,26970000000.00,Technology,EDP Services,NASDAQ,fisv
+WPPGY,WPP plc,101.15,$26.94B,26940000000.00,Technology,Advertising,NASDAQ,wppgy
+HCN,Welltower Inc.,73.29,$26.84B,26840000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,hcn
+CHT,"Chunghwa Telecom Co., Ltd.",34.38,$26.67B,26670000000.00,Public Utilities,Telecommunications Equipment,NYSE,cht
+BEN,"Franklin Resources, Inc.",47.22,$26.51B,26510000000.00,Finance,Investment Managers,NYSE,ben
+AVB,"AvalonBay Communities, Inc.",191.12,$26.33B,26330000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,avb
+MT,ArcelorMittal,25.71,$26.27B,26270000000.00,Basic Industries,Steel/Iron Ore,NYSE,mt
+WMB,"Williams Companies, Inc. (The)",31.61,$26.12B,26120000000.00,Public Utilities,Natural Gas Distribution,NYSE,wmb
+KEP,Korea Electric Power Corporation,20.28,$26.04B,26040000000.00,Public Utilities,Electric Utilities: Central,NYSE,kep
+PPL,PPL Corporation,38.09,$26.02B,26020000000.00,Public Utilities,Electric Utilities: Central,NYSE,ppl
+YUM,"Yum! Brands, Inc.",74.59,$25.97B,25970000000.00,Consumer Services,Restaurants,NYSE,yum
+ZBH,"Zimmer Biomet Holdings, Inc.",128.7,$25.95B,25950000000.00,Health Care,Industrial Specialties,NYSE,zbh
+RACE,Ferrari N.V.,105.41,$25.87B,25870000000.00,Capital Goods,Auto Manufacturing,NYSE,race
+ILMN,"Illumina, Inc.",176.3,$25.74B,25740000000.00,Capital Goods,Biotechnology: Laboratory Analytical Instruments,NASDAQ,ilmn
+EIX,Edison International,78.91,$25.71B,25710000000.00,Public Utilities,Electric Utilities: Central,NYSE,eix
+WY,Weyerhaeuser Company,33.92,$25.51B,25510000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,wy
+NWL,Newell Brands Inc.,52.75,$25.48B,25480000000.00,Consumer Non-Durables,Plastic Products,NYSE,nwl
+MCO,Moody&#39;s Corporation,133.28,$25.46B,25460000000.00,Finance,Finance: Consumer Services,NYSE,mco
+APC,Anadarko Petroleum Corporation,45.17,$25.31B,25310000000.00,Energy,Oil & Gas Production,NYSE,apc
+ADSK,"Autodesk, Inc.",114.08,$25.14B,25140000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,adsk
+SIRI,Sirius XM Holdings Inc.,5.39,$25.14B,25140000000.00,Consumer Services,Broadcasting,NASDAQ,siri
+AAL,"American Airlines Group, Inc.",51.01,$25.13B,25130000000.00,Transportation,Air Freight/Delivery Services,NASDAQ,aal
+ED,Consolidated Edison Inc,82.11,$25.07B,25070000000.00,Public Utilities,Power Generation,NYSE,ed
+IMO,Imperial Oil Limited,29.68,$25.06B,25060000000.00,Energy,Integrated oil Companies,AMEX,imo
+EQR,Equity Residential,67.36,$24.74B,24740000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,eqr
+VIV,Telefonica Brasil S.A.,14.6,$24.65B,24650000000.00,Public Utilities,Telecommunications Equipment,NYSE,viv
+RCL,Royal Caribbean Cruises Ltd.,114.45,$24.62B,24620000000.00,Consumer Services,Marine Transportation,NYSE,rcl
+CAH,"Cardinal Health, Inc.",77.67,$24.53B,24530000000.00,Health Care,Other Pharmaceuticals,NYSE,cah
+VFC,V.F. Corporation,60.87,$24.38B,24380000000.00,Consumer Non-Durables,Apparel,NYSE,vfc
+AMTD,TD Ameritrade Holding Corporation,46.13,$24.36B,24360000000.00,Finance,Investment Bankers/Brokers/Service,NASDAQ,amtd
+MTB,M&T Bank Corporation,157.98,$24.31B,24310000000.00,Finance,Major Banks,NYSE,mtb
+SYF,Synchrony Financial,30.57,$24.31B,24310000000.00,Finance,Finance: Consumer Services,NYSE,syf
+DLPH,Delphi Automotive plc,90.67,$24.29B,24290000000.00,Capital Goods,Auto Parts:O.E.M.,NYSE,dlph
+EW,Edwards Lifesciences Corporation,115.61,$24.26B,24260000000.00,Health Care,Industrial Specialties,NYSE,ew
+VTR,"Ventas, Inc.",68.08,$24.16B,24160000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,vtr
+TTM,Tata Motors Ltd,35.55,$24.15B,24150000000.00,Capital Goods,Auto Manufacturing,NYSE,ttm
+PCAR,PACCAR Inc.,68.56,$24.08B,24080000000.00,Capital Goods,Auto Manufacturing,NASDAQ,pcar
+DFS,Discover Financial Services,63.13,$24B,24000000000.00,Finance,Finance: Consumer Services,NYSE,dfs
+XEL,Xcel Energy Inc.,47.27,$24B,24000000000.00,Public Utilities,Power Generation,NYSE,xel
+ROP,"Roper Technologies, Inc.",233.76,$23.85B,23850000000.00,Capital Goods,Industrial Machinery/Components,NYSE,rop
+ADM,Archer-Daniels-Midland Company,41.71,$23.71B,23710000000.00,Consumer Non-Durables,Packaged Foods,NYSE,adm
+PKX,POSCO,74.08,$23.7B,23700000000.00,Basic Industries,Steel/Iron Ore,NYSE,pkx
+EXPE,"Expedia, Inc.",156.94,$23.69B,23690000000.00,Consumer Services,Transportation Services,NASDAQ,expe
+K,Kellogg Company,67.31,$23.58B,23580000000.00,Consumer Non-Durables,Packaged Foods,NYSE,k
+SLF,Sun Life Financial Inc.,38.23,$23.46B,23460000000.00,Finance,Life Insurance,NYSE,slf
+BCR,"C.R. Bard, Inc.",321.2,$23.31B,23310000000.00,Health Care,Medical/Dental Instruments,NYSE,bcr
+ATUS,"Altice USA, Inc.",31.6,$23.29B,23290000000.00,Consumer Services,Television Services,NYSE,atus
+IP,International Paper Company,56.39,$23.28B,23280000000.00,Basic Industries,Paper,NYSE,ip
+FCAU,Fiat Chrysler Automobiles N.V.,11.9,$23.16B,23160000000.00,Capital Goods,Auto Manufacturing,NYSE,fcau
+CP,Canadian Pacific Railway Limited,157.86,$23.14B,23140000000.00,Transportation,Railroads,NYSE,cp
+APH,Amphenol Corporation,74.94,$22.9B,22900000000.00,Capital Goods,Electrical Products,NYSE,aph
+DXC,DXC Technology Company,80.06,$22.79B,22790000000.00,Technology,EDP Services,NYSE,dxc
+SHG,Shinhan Financial Group Co Ltd,47.63,$22.59B,22590000000.00,Finance,Major Banks,NYSE,shg
+TSN,"Tyson Foods, Inc.",63.03,$22.58B,22580000000.00,Consumer Non-Durables,Meat/Poultry/Fish,NYSE,tsn
+HSY,Hershey Company (The),106,$22.56B,22560000000.00,Consumer Non-Durables,Specialty Foods,NYSE,hsy
+PEG,Public Service Enterprise Group Incorporated,44.29,$22.41B,22410000000.00,Public Utilities,Power Generation,NYSE,peg
+IR,Ingersoll-Rand plc (Ireland),86.94,$22.26B,22260000000.00,Capital Goods,Auto Parts:O.E.M.,NYSE,ir
+HBANO,Huntington Bancshares Incorporated,27.81,$22.16B,22160000000.00,Finance,Major Banks,NASDAQ,hbano
+AMP,"AMERIPRISE FINANCIAL SERVICES, INC.",144.65,$22.05B,22050000000.00,Finance,Investment Managers,NYSE,amp
+PH,Parker-Hannifin Corporation,164.66,$21.93B,21930000000.00,Capital Goods,Metal Fabrications,NYSE,ph
+RSG,"Republic Services, Inc.",64.8,$21.91B,21910000000.00,Public Utilities,Environmental Services,NYSE,rsg
+FCX,"Freeport-McMoran, Inc.",15.06,$21.79B,21790000000.00,Basic Industries,Precious Metals,NYSE,fcx
+WDAY,"Workday, Inc.",105.2,$21.78B,21780000000.00,Technology,EDP Services,NYSE,wday
+FTV,Fortive Corporation,62.18,$21.55B,21550000000.00,Capital Goods,Industrial Machinery/Components,NYSE,ftv
+KB,KB Financial Group Inc,54.25,$21.51B,21510000000.00,Finance,Commercial Banks,NYSE,kb
+SWK,"Stanley Black & Decker, Inc.",140.28,$21.47B,21470000000.00,Capital Goods,Industrial Machinery/Components,NYSE,swk
+TU,TELUS Corporation,36.09,$21.42B,21420000000.00,Public Utilities,Telecommunications Equipment,NYSE,tu
+UAL,"United Continental Holdings, Inc.",70.24,$21.37B,21370000000.00,Transportation,Air Freight/Delivery Services,NYSE,ual
+TI,Telecom Italia S.P.A.,10.14,$21.36B,21360000000.00,Consumer Services,Telecommunications Equipment,NYSE,ti
+CERN,Cerner Corporation,64.62,$21.35B,21350000000.00,Technology,EDP Services,NASDAQ,cern
+KR,Kroger Company (The),23.72,$21.29B,21290000000.00,Consumer Services,Food Chains,NYSE,kr
+KYO,Kyocera Corporation,57.71,$21.22B,21220000000.00,Technology,Semiconductors,NYSE,kyo
+NMR,Nomura Holdings Inc ADR,5.96,$21.12B,21120000000.00,Finance,Investment Bankers/Brokers/Service,NYSE,nmr
+OKE,"ONEOK, Inc.",55.59,$21.12B,21120000000.00,Public Utilities,Oil & Gas Production,NYSE,oke
+MYL,Mylan N.V.,39.19,$21.01B,21010000000.00,Health Care,Major Pharmaceuticals,NASDAQ,myl
+ROST,"Ross Stores, Inc.",53.96,$21B,21000000000.00,Consumer Services,Clothing/Shoe/Accessory Stores,NASDAQ,rost
+LVLT,"Level 3 Communications, Inc.",58.08,$20.99B,20990000000.00,Public Utilities,Telecommunications Equipment,NYSE,lvlt
+ROK,"Rockwell Automation, Inc.",162.78,$20.97B,20970000000.00,Capital Goods,Industrial Machinery/Components,NYSE,rok
+GGP,GGP Inc.,23.75,$20.96B,20960000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,ggp
+RCI,"Rogers Communication, Inc.",52.02,$20.93B,20930000000.00,Consumer Services,Television Services,NYSE,rci
+PAYX,"Paychex, Inc.",58.11,$20.88B,20880000000.00,Consumer Services,Diversified Commercial Services,NASDAQ,payx
+IX,Orix Corp Ads,78.78,$20.86B,20860000000.00,Finance,Diversified Financial Services,NYSE,ix
+CCE,Coca-Cola European Partners plc,43.09,$20.82B,20820000000.00,Consumer Non-Durables,Beverages (Production/Distribution),NYSE,cce
+ERIC,Ericsson,6.3,$20.64B,20640000000.00,Technology,Radio And Television Broadcasting And Communications Equipment,NASDAQ,eric
+ABC,AmerisourceBergen Corporation (Holding Co),94.21,$20.57B,20570000000.00,Health Care,Other Pharmaceuticals,NYSE,abc
+TROW,"T. Rowe Price Group, Inc.",84.92,$20.49B,20490000000.00,Finance,Investment Bankers/Brokers/Service,NASDAQ,trow
+DG,Dollar General Corporation,74.6,$20.46B,20460000000.00,Consumer Services,Department/Specialty Retail Stores,NYSE,dg
+HLT,Hilton Worldwide Holdings Inc.,62.52,$20.43B,20430000000.00,Consumer Services,Hotels/Resorts,NYSE,hlt
+VCSH,Vanguard Short-Term Corporate Bond ETF,80.21,$20.15B,20150000000.00,NA,NA,NASDAQ,vcsh
+NTRS,Northern Trust Corporation,87.9,$20.08B,20080000000.00,Finance,Major Banks,NASDAQ,ntrs
+WLTW,Willis Towers Watson Public Limited Company,148.51,$20.08B,20080000000.00,Finance,Specialty Insurers,NASDAQ,wltw
+SWKS,"Skyworks Solutions, Inc.",107.33,$19.81B,19810000000.00,Technology,Semiconductors,NASDAQ,swks
+Q,"Quintiles IMS Holdings, Inc.",91.7,$19.79B,19790000000.00,Health Care,Biotechnology: Commercial Physical & Biological Resarch,NYSE,q
+WEC,"WEC Energy Group, Inc.",62.62,$19.76B,19760000000.00,Public Utilities,Power Generation,NYSE,wec
+NEM,Newmont Mining Corporation,36.96,$19.71B,19710000000.00,Basic Industries,Precious Metals,NYSE,nem
+FITB,Fifth Third Bancorp,26.18,$19.64B,19640000000.00,Finance,Major Banks,NASDAQ,fitb
+CXO,Concho Resources Inc.,132.06,$19.6B,19600000000.00,Energy,Oil & Gas Production,NYSE,cxo
+HIG,"Hartford Financial Services Group, Inc. (The)",53.22,$19.55B,19550000000.00,Finance,Property-Casualty Insurers,NYSE,hig
+MGM,MGM Resorts International,33.87,$19.47B,19470000000.00,Consumer Services,Hotels/Resorts,NYSE,mgm
+PAA,"Plains All American Pipeline, L.P.",26.74,$19.38B,19380000000.00,Energy,Natural Gas Distribution,NYSE,paa
+ES,Eversource Energy,60.94,$19.31B,19310000000.00,Public Utilities,Electric Utilities: Central,NYSE,es
+DTE,DTE Energy Company,107.38,$19.26B,19260000000.00,Public Utilities,Electric Utilities: Central,NYSE,dte
+MCHP,Microchip Technology Incorporated,82.69,$19.24B,19240000000.00,Technology,Semiconductors,NASDAQ,mchp
+ETE,"Energy Transfer Equity, L.P.",17.8,$19.21B,19210000000.00,Public Utilities,Natural Gas Distribution,NYSE,ete
+PFG,Principal Financial Group Inc,66.66,$19.21B,19210000000.00,Finance,Accident &Health Insurance,NYSE,pfg
+A,"Agilent Technologies, Inc.",59.72,$19.19B,19190000000.00,Capital Goods,Biotechnology: Laboratory Analytical Instruments,NYSE,a
+SYMC,Symantec Corporation,31.27,$19.02B,19020000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,symc
+ABX,Barrick Gold Corporation,16.24,$18.94B,18940000000.00,Basic Industries,Precious Metals,NYSE,abx
+EC,Ecopetrol S.A.,9.19,$18.89B,18890000000.00,Energy,Oil & Gas Production,NYSE,ec
+TS,Tenaris S.A.,31.78,$18.76B,18760000000.00,Basic Industries,Steel/Iron Ore,NYSE,ts
+NOW,"ServiceNow, Inc.",109.72,$18.64B,18640000000.00,Technology,Computer Software: Prepackaged Software,NYSE,now
+APA,Apache Corporation,48.86,$18.59B,18590000000.00,Energy,Oil & Gas Production,NYSE,apa
+KOF,Coca Cola Femsa S.A.B. de C.V.,88.33,$18.56B,18560000000.00,Consumer Non-Durables,Beverages (Production/Distribution),NYSE,kof
+NUE,Nucor Corporation,58.12,$18.54B,18540000000.00,Basic Industries,Steel/Iron Ore,NYSE,nue
+BXP,"Boston Properties, Inc.",120.37,$18.52B,18520000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,bxp
+DLR,"Digital Realty Trust, Inc.",113.32,$18.38B,18380000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,dlr
+INFO,IHS Markit Ltd.,45.93,$18.34B,18340000000.00,Technology,"Computer Software: Programming, Data Processing",NASDAQ,info
+OMC,Omnicom Group Inc.,78.83,$18.19B,18190000000.00,Technology,Advertising,NYSE,omc
+MGA,"Magna International, Inc.",48.34,$18.04B,18040000000.00,Capital Goods,Auto Parts:O.E.M.,NYSE,mga
+HRL,Hormel Foods Corporation,34.01,$17.98B,17980000000.00,Consumer Non-Durables,Meat/Poultry/Fish,NYSE,hrl
+RHT,"Red Hat, Inc.",100.67,$17.86B,17860000000.00,Technology,"Computer Software: Programming, Data Processing",NYSE,rht
+CHKP,Check Point Software Technologies Ltd.,107.57,$17.85B,17850000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,chkp
+MHK,"Mohawk Industries, Inc.",240.13,$17.85B,17850000000.00,Consumer Durables,Home Furnishings,NYSE,mhk
+CFG,"Citizens Financial Group, Inc.",35.17,$17.79B,17790000000.00,Finance,Major Banks,NYSE,cfg
+COL,"Rockwell Collins, Inc.",109.55,$17.79B,17790000000.00,Capital Goods,Military/Government/Technical,NYSE,col
+BAP,Credicorp Ltd.,187.38,$17.69B,17690000000.00,Finance,Commercial Banks,NYSE,bap
+EFX,"Equifax, Inc.",146.21,$17.58B,17580000000.00,Finance,Finance: Consumer Services,NYSE,efx
+ESS,"Essex Property Trust, Inc.",267.14,$17.52B,17520000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,ess
+FDC,First Data Corporation,19.04,$17.5B,17500000000.00,Miscellaneous,Business Services,NYSE,fdc
+WCN,"Waste Connections, Inc.",66,$17.4B,17400000000.00,Public Utilities,Environmental Services,NYSE,wcn
+DVN,Devon Energy Corporation,32.99,$17.34B,17340000000.00,Energy,Oil & Gas Production,NYSE,dvn
+RF,Regions Financial Corporation,14.45,$17.33B,17330000000.00,Finance,Major Banks,NYSE,rf
+CLX,Clorox Company (The),133.43,$17.19B,17190000000.00,Consumer Durables,Specialty Chemicals,NYSE,clx
+SKM,"SK Telecom Co., Ltd.",27.02,$17.19B,17190000000.00,Public Utilities,Telecommunications Equipment,NYSE,skm
+ORLY,"O&#39;Reilly Automotive, Inc.",187.43,$17.06B,17060000000.00,Consumer Services,Other Specialty Stores,NASDAQ,orly
+BBY,"Best Buy Co., Inc.",55.57,$16.95B,16950000000.00,Consumer Services,Consumer Electronics/Video Chains,NYSE,bby
+DPS,"Dr Pepper Snapple Group, Inc",92.15,$16.94B,16940000000.00,Consumer Non-Durables,Beverages (Production/Distribution),NYSE,dps
+DLTR,"Dollar Tree, Inc.",70.92,$16.79B,16790000000.00,Consumer Services,Department/Specialty Retail Stores,NASDAQ,dltr
+WB,Weibo Corporation,76.35,$16.65B,16650000000.00,Technology,"Computer Software: Programming, Data Processing",NASDAQ,wb
+VMC,Vulcan Materials Company,125.65,$16.61B,16610000000.00,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels),NYSE,vmc
+LH,Laboratory Corporation of America Holdings,161.17,$16.49B,16490000000.00,Health Care,Medical Specialities,NYSE,lh
+SBAC,SBA Communications Corporation,135.57,$16.44B,16440000000.00,Consumer Services,Real Estate Investment Trusts,NASDAQ,sbac
+LBRDK,Liberty Broadband Corporation,90.12,$16.39B,16390000000.00,Consumer Services,Television Services,NASDAQ,lbrdk
+L,Loews Corporation,48.12,$16.2B,16200000000.00,Finance,Property-Casualty Insurers,NYSE,l
+LBRDA,Liberty Broadband Corporation,89.11,$16.2B,16200000000.00,Consumer Services,Television Services,NASDAQ,lbrda
+XLNX,"Xilinx, Inc.",65.32,$16.2B,16200000000.00,Technology,Semiconductors,NASDAQ,xlnx
+MMP,Magellan Midstream Partners L.P.,70.62,$16.1B,16100000000.00,Energy,Natural Gas Distribution,NYSE,mmp
+FNF,"Fidelity National Financial, Inc.",47.42,$16.08B,16080000000.00,Finance,Specialty Insurers,NYSE,fnf
+LNC,Lincoln National Corporation,71.51,$16.04B,16040000000.00,Finance,Life Insurance,NYSE,lnc
+IBKR,"Interactive Brokers Group, Inc.",39.09,$16B,16000000000.00,Finance,Investment Bankers/Brokers/Service,NASDAQ,ibkr
+VIA,Viacom Inc.,39.75,$15.97B,15970000000.00,Consumer Services,Television Services,NASDAQ,via
+CPB,Campbell Soup Company,52.61,$15.94B,15940000000.00,Consumer Non-Durables,Packaged Foods,NYSE,cpb
+TV,Grupo Televisa S.A.,26.92,$15.9B,15900000000.00,Consumer Services,Broadcasting,NYSE,tv
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,88.09,$15.83B,15830000000.00,NA,NA,NASDAQ,vcit
+O,Realty Income Corporation,57.92,$15.82B,15820000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,o
+KLAC,KLA-Tencor Corporation,100.86,$15.81B,15810000000.00,Capital Goods,Electronic Components,NASDAQ,klac
+SNAP,Snap Inc.,13.4,$15.8B,15800000000.00,Technology,"Computer Software: Programming, Data Processing",NYSE,snap
+FRC,FIRST REPUBLIC BANK,100.29,$15.77B,15770000000.00,NA,NA,NYSE,frc
+CNHI,CNH Industrial N.V.,11.54,$15.73B,15730000000.00,Capital Goods,Construction/Ag Equipment/Trucks,NYSE,cnhi
+TSO,Tesoro Corporation,97.79,$15.64B,15640000000.00,Energy,Integrated oil Companies,NYSE,tso
+SNN,"Smith & Nephew SNATS, Inc.",34.56,$15.62B,15620000000.00,Health Care,Industrial Specialties,NYSE,snn
+BMRN,BioMarin Pharmaceutical Inc.,89.2,$15.56B,15560000000.00,Health Care,Major Pharmaceuticals,NASDAQ,bmrn
+MTD,"Mettler-Toledo International, Inc.",597.85,$15.44B,15440000000.00,Capital Goods,Biotechnology: Laboratory Analytical Instruments,NYSE,mtd
+BHGE,"Baker Hughes, a GE company",36.05,$15.34B,15340000000.00,Energy,Metal Fabrications,NYSE,bhge
+ULTA,"Ulta Beauty, Inc.",247.24,$15.34B,15340000000.00,Consumer Services,Other Specialty Stores,NASDAQ,ulta
+STM,STMicroelectronics N.V.,17.05,$15.06B,15060000000.00,Technology,Semiconductors,NYSE,stm
+MSI,"Motorola Solutions, Inc.",91.84,$15.01B,15010000000.00,Technology,Radio And Television Broadcasting And Communications Equipment,NYSE,msi
+HCP,"HCP, Inc.",31.99,$14.99B,14990000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,hcp
+FTS,Fortis Inc.,35.77,$14.95B,14950000000.00,Public Utilities,Electric Utilities: Central,NYSE,fts
+BLL,Ball Corporation,42.41,$14.89B,14890000000.00,Consumer Durables,Containers/Packaging,NYSE,bll
+TDG,Transdigm Group Incorporated,286.05,$14.88B,14880000000.00,Capital Goods,Military/Government/Technical,NYSE,tdg
+POT,Potash Corporation of Saskatchewan Inc.,17.7,$14.87B,14870000000.00,Basic Industries,Agricultural Chemicals,NYSE,pot
+IVZ,Invesco Plc,36.44,$14.83B,14830000000.00,Finance,Investment Managers,NYSE,ivz
+COTY,Coty Inc.,19.81,$14.81B,14810000000.00,Consumer Non-Durables,Package Goods/Cosmetics,NYSE,coty
+LSXMK,Liberty Media Corporation,42.48,$14.81B,14810000000.00,Consumer Services,Broadcasting,NASDAQ,lsxmk
+VNO,Vornado Realty Trust,78.06,$14.78B,14780000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,vno
+DGX,Quest Diagnostics Incorporated,108.22,$14.76B,14760000000.00,Health Care,Medical Specialities,NYSE,dgx
+IDXX,"IDEXX Laboratories, Inc.",166.83,$14.7B,14700000000.00,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,NASDAQ,idxx
+HSIC,"Henry Schein, Inc.",184.74,$14.66B,14660000000.00,Health Care,Medical Specialities,NASDAQ,hsic
+CA,CA Inc.,34.65,$14.6B,14600000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,ca
+WRK,Westrock Company,58.15,$14.6B,14600000000.00,Consumer Durables,Containers/Packaging,NYSE,wrk
+GPN,Global Payments Inc.,95.3,$14.53B,14530000000.00,Miscellaneous,Business Services,NYSE,gpn
+QSR,Restaurant Brands International Inc.,61.49,$14.53B,14530000000.00,Consumer Services,Restaurants,NYSE,qsr
+AWK,American Water Works,81.35,$14.5B,14500000000.00,Public Utilities,Water Supply,NYSE,awk
+TAP,Molson Coors Brewing  Company,89.04,$14.49B,14490000000.00,Consumer Non-Durables,Beverages (Production/Distribution),NYSE,tap
+XRAY,DENTSPLY SIRONA Inc.,63.17,$14.48B,14480000000.00,Health Care,Medical/Dental Instruments,NASDAQ,xray
+AZO,"AutoZone, Inc.",515.97,$14.46B,14460000000.00,Consumer Services,Other Specialty Stores,NYSE,azo
+CTAS,Cintas Corporation,137.11,$14.45B,14450000000.00,Consumer Non-Durables,Apparel,NASDAQ,ctas
+VRSK,"Verisk Analytics, Inc.",87.06,$14.39B,14390000000.00,Technology,EDP Services,NASDAQ,vrsk
+CNC,Centene Corporation,83.39,$14.38B,14380000000.00,Health Care,Medical Specialities,NYSE,cnc
+HBAN,Huntington Bancshares Incorporated,13.18,$14.37B,14370000000.00,Finance,Major Banks,NASDAQ,hban
+TWTR,"Twitter, Inc.",19.61,$14.33B,14330000000.00,Technology,"Computer Software: Programming, Data Processing",NYSE,twtr
+MLM,"Martin Marietta Materials, Inc.",227.55,$14.29B,14290000000.00,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels),NYSE,mlm
+SEP,"Spectra Energy Partners, LP",45.29,$14.29B,14290000000.00,Public Utilities,Natural Gas Distribution,NYSE,sep
+MKL,Markel Corporation,1023.34,$14.27B,14270000000.00,Finance,Property-Casualty Insurers,NYSE,mkl
+NLSN,Nielsen N.V.,39.89,$14.25B,14250000000.00,Miscellaneous,Business Services,NYSE,nlsn
+BSMX,Grupo Financiero Santander Mexico S.A. B. de C.V.,10.45,$14.18B,14180000000.00,Finance,Commercial Banks,NYSE,bsmx
+FLT,"FleetCor Technologies, Inc.",153.75,$14.18B,14180000000.00,Miscellaneous,Business Services,NYSE,flt
+AGR,"Avangrid, Inc.",45.67,$14.12B,14120000000.00,Public Utilities,Electric Utilities: Central,NYSE,agr
+BCH,Banco De Chile,84.42,$14.1B,14100000000.00,Finance,Commercial Banks,NYSE,bch
+CAG,"ConAgra Brands, Inc.",33.83,$14.09B,14090000000.00,Consumer Non-Durables,Packaged Foods,NYSE,cag
+GIB,"CGI Group, Inc.",53.53,$14.07B,14070000000.00,Consumer Services,Professional Services,NYSE,gib
+MBLY,Mobileye N.V.,63.35,$14.07B,14070000000.00,Technology,Computer Software: Prepackaged Software,NYSE,mbly
+WHR,Whirlpool Corporation,190.19,$14.07B,14070000000.00,Consumer Durables,Consumer Electronics/Appliances,NYSE,whr
+YUMC,"Yum China Holdings, Inc.",36.51,$14B,14000000000.00,Consumer Services,Restaurants,NYSE,yumc
+AMD,"Advanced Micro Devices, Inc.",14.76,$13.95B,13950000000.00,Technology,Semiconductors,NASDAQ,amd
+PBA,Pembina Pipeline Corp.,34.6,$13.88B,13880000000.00,Energy,Oil & Gas Production,NYSE,pba
+HRS,Harris Corporation,115.23,$13.83B,13830000000.00,Capital Goods,Industrial Machinery/Components,NYSE,hrs
+HES,Hess Corporation,43.47,$13.82B,13820000000.00,Energy,Integrated oil Companies,NYSE,hes
+WAT,Waters Corporation,172.58,$13.81B,13810000000.00,Capital Goods,Biotechnology: Laboratory Analytical Instruments,NYSE,wat
+FE,FirstEnergy Corporation,31.1,$13.8B,13800000000.00,Public Utilities,Electric Utilities: Central,NYSE,fe
+GRFS,"Grifols, S.A.",20.14,$13.76B,13760000000.00,Health Care,Major Pharmaceuticals,NASDAQ,grfs
+MPLX,MPLX LP,36.24,$13.73B,13730000000.00,Energy,Natural Gas Distribution,NYSE,mplx
+SJM,J.M. Smucker Company (The),120.71,$13.69B,13690000000.00,Consumer Non-Durables,Packaged Foods,NYSE,sjm
+AGU,Agrium Inc.,99,$13.68B,13680000000.00,Basic Industries,Agricultural Chemicals,NYSE,agu
+AEE,Ameren Corporation,56.34,$13.67B,13670000000.00,Public Utilities,Power Generation,NYSE,aee
+LLL,"L3 Technologies, Inc.",175.52,$13.67B,13670000000.00,Technology,Radio And Television Broadcasting And Communications Equipment,NYSE,lll
+ANTX,"Anthem, Inc.",51.47,$13.64B,13640000000.00,Health Care,Medical Specialities,NYSE,antx
+DHI,"D.R. Horton, Inc.",36.29,$13.63B,13630000000.00,Capital Goods,Homebuilding,NYSE,dhi
+ETR,Entergy Corporation,75.64,$13.57B,13570000000.00,Public Utilities,Electric Utilities: Central,NYSE,etr
+WYNN,"Wynn Resorts, Limited",132,$13.51B,13510000000.00,Consumer Services,Hotels/Resorts,NASDAQ,wynn
+COH,"Coach, Inc.",47.89,$13.46B,13460000000.00,Consumer Non-Durables,Apparel,NYSE,coh
+WFM,"Whole Foods Market, Inc.",41.81,$13.39B,13390000000.00,Consumer Services,Food Chains,NASDAQ,wfm
+CHD,"Church & Dwight Company, Inc.",53.67,$13.38B,13380000000.00,Basic Industries,Package Goods/Cosmetics,NYSE,chd
+HST,"Host Hotels & Resorts, Inc.",18.02,$13.33B,13330000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,hst
+CNA,CNA Financial Corporation,49.12,$13.31B,13310000000.00,Finance,Property-Casualty Insurers,NYSE,cna
+FNV,Franco-Nevada Corporation,73.12,$13.3B,13300000000.00,Basic Industries,Precious Metals,NYSE,fnv
+ADS,Alliance Data Systems Corporation,238.76,$13.29B,13290000000.00,Miscellaneous,Business Services,NYSE,ads
+HAS,"Hasbro, Inc.",106.1,$13.26B,13260000000.00,Consumer Non-Durables,Recreational Products/Toys,NASDAQ,has
+TXT,Textron Inc.,49.11,$13.15B,13150000000.00,Capital Goods,Aerospace,NYSE,txt
+VEDL,Vedanta  Limited,17.63,$13.07B,13070000000.00,Capital Goods,Metal Fabrications,NYSE,vedl
+CMS,CMS Energy Corporation,46.53,$13.05B,13050000000.00,Public Utilities,Power Generation,NYSE,cms
+EDU,"New Oriental Education & Technology Group, Inc.",82.87,$13.05B,13050000000.00,Consumer Services,Other Consumer Services,NYSE,edu
+CE,Celanese Corporation,94.74,$13.03B,13030000000.00,Basic Industries,Major Chemicals,NYSE,ce
+DVMT,Dell Technologies Inc.,64.02,$13.01B,13010000000.00,Technology,Computer Manufacturing,NYSE,dvmt
+ALB,Albemarle Corporation,117.2,$12.98B,12980000000.00,Basic Industries,Major Chemicals,NYSE,alb
+DOV,Dover Corporation,83.36,$12.98B,12980000000.00,Technology,Industrial Machinery/Components,NYSE,dov
+CBG,"CBRE Group, Inc.",38.34,$12.95B,12950000000.00,Finance,Real Estate,NYSE,cbg
+ACGL,Arch Capital Group Ltd.,99.03,$12.94B,12940000000.00,Finance,Property-Casualty Insurers,NASDAQ,acgl
+FTI,TechnipFMC plc,27.74,$12.94B,12940000000.00,Energy,Metal Fabrications,NYSE,fti
+LB,"L Brands, Inc.",45.01,$12.91B,12910000000.00,Consumer Services,Clothing/Shoe/Accessory Stores,NYSE,lb
+UGP,Ultrapar Participacoes S.A.,23.2,$12.91B,12910000000.00,Public Utilities,Oil/Gas Transmission,NYSE,ugp
+MXIM,"Maxim Integrated Products, Inc.",45.19,$12.77B,12770000000.00,Technology,Semiconductors,NASDAQ,mxim
+CMA,Comerica Incorporated,72.53,$12.76B,12760000000.00,Finance,Major Banks,NYSE,cma
+ALGN,"Align Technology, Inc.",158.69,$12.75B,12750000000.00,Health Care,Industrial Specialties,NASDAQ,algn
+PANW,"Palo Alto Networks, Inc.",138.73,$12.74B,12740000000.00,Technology,Computer peripheral equipment,NYSE,panw
+VNTV,"Vantiv, Inc.",64.57,$12.73B,12730000000.00,Miscellaneous,Business Services,NYSE,vntv
+NCLH,Norwegian Cruise Line Holdings Ltd.,55.65,$12.68B,12680000000.00,Consumer Services,Marine Transportation,NASDAQ,nclh
+BSAC,Banco Santander Chile,26.89,$12.67B,12670000000.00,Finance,Commercial Banks,NYSE,bsac
+NOV,"National Oilwell Varco, Inc.",33.34,$12.67B,12670000000.00,Energy,Metal Fabrications,NYSE,nov
+FAST,Fastenal Company,43.89,$12.64B,12640000000.00,Consumer Services,RETAIL: Building Materials,NASDAQ,fast
+HOLX,"Hologic, Inc.",45.14,$12.64B,12640000000.00,Health Care,Medical Electronics,NASDAQ,holx
+DVA,DaVita Inc.,64.89,$12.63B,12630000000.00,Health Care,Hospital/Nursing Management,NYSE,dva
+MELI,"MercadoLibre, Inc.",286.02,$12.63B,12630000000.00,Miscellaneous,Business Services,NASDAQ,meli
+CTL,"CenturyLink, Inc.",22.86,$12.55B,12550000000.00,Public Utilities,Telecommunications Equipment,NYSE,ctl
+CLR,"Continental Resources, Inc.",33.12,$12.43B,12430000000.00,Energy,Oil & Gas Production,NYSE,clr
+EMN,Eastman Chemical Company,85.05,$12.4B,12400000000.00,Basic Industries,Major Chemicals,NYSE,emn
+LEN,Lennar Corporation,52.75,$12.37B,12370000000.00,Basic Industries,Homebuilding,NYSE,len
+NBL,Noble Energy Inc.,28.64,$12.36B,12360000000.00,Energy,Oil & Gas Production,NYSE,nbl
+CINF,Cincinnati Financial Corporation,74.99,$12.35B,12350000000.00,Finance,Property-Casualty Insurers,NASDAQ,cinf
+CTXS,"Citrix Systems, Inc.",81.52,$12.32B,12320000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,ctxs
+NDAQ,"Nasdaq, Inc.",74.45,$12.3B,12300000000.00,Finance,Investment Bankers/Brokers/Service,NASDAQ,ndaq
+RJF,"Raymond James Financial, Inc.",85.37,$12.3B,12300000000.00,Finance,Investment Bankers/Brokers/Service,NYSE,rjf
+TAL,TAL Education Group,149.2,$12.28B,12280000000.00,Consumer Services,Other Consumer Services,NYSE,tal
+KMX,CarMax Inc,66.73,$12.23B,12230000000.00,Consumer Durables,Automotive Aftermarket,NYSE,kmx
+GPC,Genuine Parts Company,82.81,$12.21B,12210000000.00,Capital Goods,Automotive Aftermarket,NYSE,gpc
+ENIA,Enel Americas S.A.,10.58,$12.16B,12160000000.00,Public Utilities,Electric Utilities: Central,NYSE,enia
+CNP,"CenterPoint Energy, Inc.",28.08,$12.1B,12100000000.00,Public Utilities,Electric Utilities: Central,NYSE,cnp
+COO,"Cooper Companies, Inc. (The)",247.01,$12.07B,12070000000.00,Health Care,Ophthalmic Goods,NYSE,coo
+NLY,Annaly Capital Management Inc,11.83,$12.06B,12060000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,nly
+NTAP,"NetApp, Inc.",44.36,$12.05B,12050000000.00,Technology,Electronic Components,NASDAQ,ntap
+MAS,Masco Corporation,37.64,$12.02B,12020000000.00,Basic Industries,Forest Products,NYSE,mas
+TECK,Teck Resources Ltd,21.09,$12.02B,12020000000.00,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels),NYSE,teck
+XL,XL Group Ltd.,45.98,$12.02B,12020000000.00,Finance,Property-Casualty Insurers,NYSE,xl
+WF,Woori Bank,53.5,$12.01B,12010000000.00,Finance,Commercial Banks,NYSE,wf
+VIAB,Viacom Inc.,34.37,$11.94B,11940000000.00,Consumer Services,Television Services,NASDAQ,viab
+GG,Goldcorp Inc.,13.79,$11.93B,11930000000.00,Basic Industries,Precious Metals,NYSE,gg
+TIF,Tiffany & Co.,95.09,$11.85B,11850000000.00,Consumer Services,Consumer Specialties,NYSE,tif
+MKC,"McCormick & Company, Incorporated",94.7,$11.8B,11800000000.00,Consumer Non-Durables,Packaged Foods,NYSE,mkc
+TSS,"Total System Services, Inc.",64.02,$11.78B,11780000000.00,Miscellaneous,Business Services,NYSE,tss
+COG,Cabot Oil & Gas Corporation,25.16,$11.71B,11710000000.00,Energy,Oil & Gas Production,NYSE,cog
+IT,"Gartner, Inc.",129.53,$11.71B,11710000000.00,Consumer Services,Other Consumer Services,NYSE,it
+MAA,"Mid-America Apartment Communities, Inc.",102.24,$11.61B,11610000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,maa
+SNPS,"Synopsys, Inc.",76.69,$11.53B,11530000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,snps
+AEG,Aegon NV,5.51,$11.51B,11510000000.00,Finance,Life Insurance,NYSE,aeg
+APO,"Apollo Global Management, LLC",28.18,$11.45B,11450000000.00,Finance,Investment Managers,NYSE,apo
+PNR,Pentair plc.,62.37,$11.37B,11370000000.00,Technology,Industrial Machinery/Components,NYSE,pnr
+ETFC,E*TRADE Financial Corporation,41.11,$11.31B,11310000000.00,Finance,Savings Institutions,NASDAQ,etfc
+ARNC,Arconic Inc.,25.59,$11.22B,11220000000.00,Capital Goods,Metal Fabrications,NYSE,arnc
+BG,Bunge Limited,79.71,$11.19B,11190000000.00,Consumer Non-Durables,Packaged Foods,NYSE,bg
+REG,Regency Centers Corporation,65.67,$11.17B,11170000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,reg
+EQT,EQT Corporation,63.97,$11.12B,11120000000.00,Energy,Oil & Gas Production,NYSE,eqt
+RMD,ResMed Inc.,77.66,$11.01B,11010000000.00,Health Care,Medical/Dental Instruments,NYSE,rmd
+UNM,Unum Group,48.23,$11.01B,11010000000.00,Finance,Accident &Health Insurance,NYSE,unm
+ARE,"Alexandria Real Estate Equities, Inc.",120.82,$11B,11000000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,are
+AEM,Agnico Eagle Mines Limited,47.38,$10.99B,10990000000.00,Basic Industries,Precious Metals,NYSE,aem
+LNG,"Cheniere Energy, Inc.",46.2,$10.99B,10990000000.00,Public Utilities,Oil/Gas Transmission,AMEX,lng
+ZTO,ZTO Express (Cayman) Inc.,15.25,$10.99B,10990000000.00,Transportation,Trucking Freight/Courier Services,NYSE,zto
+KSU,Kansas City Southern,104.2,$10.98B,10980000000.00,Transportation,Railroads,NYSE,ksu
+MFCB,MFC Bancorp Ltd.,8.75,$10.97B,10970000000.00,Finance,Commercial Banks,NYSE,mfcb
+QVCB,Liberty Interactive Corporation,24.27,$10.95B,10950000000.00,Consumer Services,Catalog/Specialty Distribution,NASDAQ,qvcb
+ANSS,"ANSYS, Inc.",127.88,$10.93B,10930000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,anss
+PRGO,Perrigo Company,76.24,$10.93B,10930000000.00,Health Care,Major Pharmaceuticals,NYSE,prgo
+QVCA,Liberty Interactive Corporation,24.2,$10.92B,10920000000.00,Consumer Services,Catalog/Specialty Distribution,NASDAQ,qvca
+SNI,"Scripps Networks Interactive, Inc",84.07,$10.91B,10910000000.00,Consumer Services,Television Services,NASDAQ,sni
+UHS,"Universal Health Services, Inc.",112.88,$10.91B,10910000000.00,Health Care,Hospital/Nursing Management,NYSE,uhs
+BIP,Brookfield Infrastructure Partners LP,40.63,$10.88B,10880000000.00,Consumer Services,Marine Transportation,NYSE,bip
+ASX,"Advanced Semiconductor Engineering, Inc.",6.56,$10.85B,10850000000.00,Technology,Semiconductors,NYSE,asx
+ALK,"Alaska Air Group, Inc.",87.72,$10.84B,10840000000.00,Transportation,Air Freight/Delivery Services,NYSE,alk
+WYN,Wyndham Worldwide Corp,103.61,$10.81B,10810000000.00,Consumer Services,Hotels/Resorts,NYSE,wyn
+DRI,"Darden Restaurants, Inc.",85.83,$10.76B,10760000000.00,Consumer Services,Restaurants,NYSE,dri
+EXPD,"Expeditors International of Washington, Inc.",59.66,$10.75B,10750000000.00,Transportation,Oil Refining/Marketing,NASDAQ,expd
+HNP,"Huaneng Power International, Inc.",28.25,$10.74B,10740000000.00,Public Utilities,Electric Utilities: Central,NYSE,hnp
+DISCB,"Discovery Communications, Inc.",27.9,$10.73B,10730000000.00,Consumer Services,Television Services,NASDAQ,discb
+JNPR,"Juniper Networks, Inc.",28.06,$10.72B,10720000000.00,Technology,Computer Communications Equipment,NYSE,jnpr
+RE,"Everest Re Group, Ltd.",260.02,$10.68B,10680000000.00,Finance,Property-Casualty Insurers,NYSE,re
+CBOE,"CBOE Holdings, Inc.",94.04,$10.54B,10540000000.00,Finance,Investment Bankers/Brokers/Service,NASDAQ,cboe
+AJG,Arthur J. Gallagher & Co.,58.67,$10.53B,10530000000.00,Finance,Specialty Insurers,NYSE,ajg
+IFF,"Internationa Flavors & Fragrances, Inc.",133.38,$10.53B,10530000000.00,Basic Industries,Major Chemicals,NYSE,iff
+MLCO,Melco Resorts & Entertainment Limited,21.32,$10.49B,10490000000.00,Consumer Services,Hotels/Resorts,NASDAQ,mlco
+UDR,"United Dominion Realty Trust, Inc.",39.19,$10.48B,10480000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,udr
+CEA,China Eastern Airlines Corporation Ltd.,27.35,$10.46B,10460000000.00,Transportation,Air Freight/Delivery Services,NYSE,cea
+SJR,Shaw Communications Inc.,22.16,$10.46B,10460000000.00,Consumer Services,Television Services,NYSE,sjr
+CIB,BanColombia S.A.,43.45,$10.45B,10450000000.00,Finance,Commercial Banks,NYSE,cib
+CDNS,"Cadence Design Systems, Inc.",37.18,$10.42B,10420000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,cdns
+IHG,Intercontinental Hotels Group,57.06,$10.38B,10380000000.00,Consumer Services,Hotels/Resorts,NYSE,ihg
+LEA,Lear Corporation,150.61,$10.38B,10380000000.00,Capital Goods,Auto Parts:O.E.M.,NYSE,lea
+SQM,Sociedad Quimica y Minera S.A.,39.43,$10.38B,10380000000.00,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels),NYSE,sqm
+MRO,Marathon Oil Corporation,12.18,$10.35B,10350000000.00,Energy,Oil & Gas Production,NYSE,mro
+VRSN,"VeriSign, Inc.",101.82,$10.33B,10330000000.00,Technology,EDP Services,NASDAQ,vrsn
+FMC,FMC Corporation,77,$10.32B,10320000000.00,Basic Industries,Major Chemicals,NYSE,fmc
+YNDX,Yandex N.V.,31.84,$10.3B,10300000000.00,Technology,"Computer Software: Programming, Data Processing",NASDAQ,yndx
+AMG,"Affiliated Managers Group, Inc.",181.59,$10.28B,10280000000.00,Finance,Investment Managers,NYSE,amg
+PKG,Packaging Corporation of America,108.8,$10.25B,10250000000.00,Consumer Durables,Containers/Packaging,NYSE,pkg
+JBHT,"J.B. Hunt Transport Services, Inc.",93.6,$10.24B,10240000000.00,Transportation,Trucking Freight/Courier Services,NASDAQ,jbht
+DISCA,"Discovery Communications, Inc.",26.58,$10.22B,10220000000.00,Consumer Services,Television Services,NASDAQ,disca
+SQ,"Square, Inc.",27.31,$10.22B,10220000000.00,Technology,Computer Software: Prepackaged Software,NYSE,sq
+XYL,Xylem Inc.,56.89,$10.22B,10220000000.00,Capital Goods,Fluid Controls,NYSE,xyl
+CQP,"Cheniere Energy Partners, LP",30.21,$10.21B,10210000000.00,Public Utilities,Oil/Gas Transmission,AMEX,cqp
+LPL,"LG Display Co., Ltd.",14.27,$10.21B,10210000000.00,Capital Goods,Industrial Machinery/Components,NYSE,lpl
+URI,"United Rentals, Inc.",120.17,$10.16B,10160000000.00,Technology,Diversified Commercial Services,NYSE,uri
+FBHS,"Fortune Brands Home & Security, Inc.",65.91,$10.14B,10140000000.00,Basic Industries,Homebuilding,NYSE,fbhs
+LKQ,LKQ Corporation,32.84,$10.12B,10120000000.00,Consumer Services,Motor Vehicles,NASDAQ,lkq
+DRE,Duke Realty Corporation,28.42,$10.11B,10110000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,dre
+EXR,Extra Space Storage Inc,80.3,$10.11B,10110000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,exr
+ATH,Athene Holding Ltd.,50.22,$10.06B,10060000000.00,Finance,Life Insurance,NYSE,ath
+CDW,CDW Corporation,63.93,$10.04B,10040000000.00,Consumer Services,Catalog/Specialty Distribution,NASDAQ,cdw
+IBB,iShares Nasdaq Biotechnology Index Fund,325.9,$10.04B,10040000000.00,NA,NA,NASDAQ,ibb
+NVR,"NVR, Inc.",2678.94,$10.04B,10040000000.00,Capital Goods,Homebuilding,NYSE,nvr
+SLG,SL Green Realty Corporation,101.84,$10.02B,10020000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,slg
+MSCI,MSCI Inc,110.35,$9.98B,9980000000.00,Miscellaneous,Business Services,NYSE,msci
+ALLY,Ally Financial Inc.,21.71,$9.97B,9970000000.00,Finance,Finance: Consumer Services,NYSE,ally
+DOX,Amdocs Limited,67.35,$9.86B,9860000000.00,Technology,EDP Services,NASDAQ,dox
+GRMN,Garmin Ltd.,52.25,$9.83B,9830000000.00,Capital Goods,Industrial Machinery/Components,NASDAQ,grmn
+DISCK,"Discovery Communications, Inc.",25.54,$9.82B,9820000000.00,Consumer Services,Television Services,NASDAQ,disck
+CVE,Cenovus Energy Inc,7.97,$9.79B,9790000000.00,Energy,Oil & Gas Production,NYSE,cve
+BAK,Braskem S.A.,24.5,$9.76B,9760000000.00,Basic Industries,Major Chemicals,NYSE,bak
+CMG,"Chipotle Mexican Grill, Inc.",340.6,$9.76B,9760000000.00,Consumer Services,Restaurants,NYSE,cmg
+ECA,Encana Corporation,10.02,$9.75B,9750000000.00,Energy,Oil & Gas Production,NYSE,eca
+ARMK,Aramark,39.88,$9.74B,9740000000.00,Consumer Services,Restaurants,NYSE,armk
+BWA,BorgWarner Inc.,45.86,$9.73B,9730000000.00,Capital Goods,Auto Parts:O.E.M.,NYSE,bwa
+JAZZ,Jazz Pharmaceuticals plc,161.52,$9.71B,9710000000.00,Health Care,Major Pharmaceuticals,NASDAQ,jazz
+AVAL,Grupo Aval Acciones y Valores S.A.,8.71,$9.7B,9700000000.00,Finance,Commercial Banks,NYSE,aval
+TRMB,Trimble Inc.,38.36,$9.7B,9700000000.00,Capital Goods,Industrial Machinery/Components,NASDAQ,trmb
+PNW,Pinnacle West Capital Corporation,86.89,$9.69B,9690000000.00,Public Utilities,Electric Utilities: Central,NYSE,pnw
+LUK,Leucadia National Corporation,26.82,$9.65B,9650000000.00,Consumer Non-Durables,Meat/Poultry/Fish,NYSE,luk
+CDK,"CDK Global, Inc.",66.19,$9.61B,9610000000.00,Miscellaneous,Business Services,NASDAQ,cdk
+FRT,Federal Realty Investment Trust,132.7,$9.59B,9590000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,frt
+GWW,"W.W. Grainger, Inc.",166.18,$9.59B,9590000000.00,Consumer Services,Office Equipment/Supplies/Services,NYSE,gww
+TFX,Teleflex Incorporated,212.03,$9.54B,9540000000.00,Health Care,Medical/Dental Instruments,NYSE,tfx
+BRFS,BRF S.A.,11.88,$9.49B,9490000000.00,Consumer Non-Durables,Meat/Poultry/Fish,NYSE,brfs
+ALV,"Autoliv, Inc.",109.07,$9.48B,9480000000.00,Capital Goods,Auto Parts:O.E.M.,NYSE,alv
+GPS,"Gap, Inc. (The)",23.96,$9.48B,9480000000.00,Consumer Services,Clothing/Shoe/Accessory Stores,NYSE,gps
+ROL,"Rollins, Inc.",43.49,$9.48B,9480000000.00,Finance,Diversified Commercial Services,NYSE,rol
+Y,Alleghany Corporation,614.65,$9.48B,9480000000.00,Finance,Property-Casualty Insurers,NYSE,y
+ACH,Aluminum Corporation of China Limited,15.88,$9.47B,9470000000.00,Basic Industries,Aluminum,NYSE,ach
+FANG,"Diamondback Energy, Inc.",96.48,$9.47B,9470000000.00,Energy,Oil & Gas Production,NASDAQ,fang
+STX,Seagate Technology PLC,32.34,$9.44B,9440000000.00,Technology,Electronic Components,NASDAQ,stx
+VAR,"Varian Medical Systems, Inc.",102.59,$9.43B,9430000000.00,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,NYSE,var
+AOS,Smith (A.O.) Corporation,54.19,$9.38B,9380000000.00,Consumer Durables,Consumer Electronics/Appliances,NYSE,aos
+SIVB,SVB Financial Group,178.65,$9.38B,9380000000.00,Finance,Major Banks,NASDAQ,sivb
+HII,"Huntington Ingalls Industries, Inc.",203.49,$9.36B,9360000000.00,Capital Goods,Marine Transportation,NYSE,hii
+SCG,Scana Corporation,65.28,$9.33B,9330000000.00,Public Utilities,Power Generation,NYSE,scg
+WES,"Western Gas Partners, LP",52.7,$9.32B,9320000000.00,Public Utilities,Natural Gas Distribution,NYSE,wes
+LNT,Alliant Energy Corporation,40.87,$9.31B,9310000000.00,Public Utilities,Power Generation,NYSE,lnt
+PE,"Parsley Energy, Inc.",29.59,$9.3B,9300000000.00,Energy,Oil & Gas Production,NYSE,pe
+CHRW,"C.H. Robinson Worldwide, Inc.",65.91,$9.29B,9290000000.00,Transportation,Oil Refining/Marketing,NASDAQ,chrw
+ZION,Zions Bancorporation,45.67,$9.25B,9250000000.00,Finance,Major Banks,NASDAQ,zion
+IRM,Iron Mountain Incorporated,34.96,$9.23B,9230000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,irm
+PVH,PVH Corp.,118.41,$9.22B,9220000000.00,Consumer Non-Durables,Apparel,NYSE,pvh
+CSGP,"CoStar Group, Inc.",281.32,$9.21B,9210000000.00,Miscellaneous,Business Services,NASDAQ,csgp
+WGP,"Western Gas Equity Partners, LP",42.04,$9.2B,9200000000.00,Public Utilities,Natural Gas Distribution,NYSE,wgp
+XEC,Cimarex Energy Co,96.75,$9.2B,9200000000.00,Energy,Oil & Gas Production,NYSE,xec
+TRGP,"Targa Resources, Inc.",46.25,$9.18B,9180000000.00,Public Utilities,Natural Gas Distribution,NYSE,trgp
+WU,Western Union Company (The),19.48,$9.18B,9180000000.00,Miscellaneous,Business Services,NYSE,wu
+ATO,Atmos Energy Corporation,86.77,$9.14B,9140000000.00,Public Utilities,Oil/Gas Transmission,NYSE,ato
+TMK,Torchmark Corporation,77.96,$9.12B,9120000000.00,Finance,Life Insurance,NYSE,tmk
+AGNCB,AGNC Investment Corp.,26.28,$9.1B,9100000000.00,Consumer Services,Real Estate Investment Trusts,NASDAQ,agncb
+WLK,Westlake Chemical Corporation,70.48,$9.1B,9100000000.00,Basic Industries,Major Chemicals,NYSE,wlk
+OTEX,Open Text Corporation,34.42,$9.09B,9090000000.00,Technology,EDP Services,NASDAQ,otex
+VEEV,Veeva Systems Inc.,65.05,$9.09B,9090000000.00,Technology,Computer Software: Prepackaged Software,NYSE,veev
+FLEX,Flex Ltd.,16.98,$9.03B,9030000000.00,Technology,Electrical Products,NASDAQ,flex
+GT,The Goodyear Tire & Rubber Company,35.79,$9.02B,9020000000.00,Consumer Durables,Automotive Aftermarket,NASDAQ,gt
+SEIC,SEI Investments Company,56.6,$8.98B,8980000000.00,Finance,Investment Bankers/Brokers/Service,NASDAQ,seic
+DPZ,Domino&#39;s Pizza Inc,186.43,$8.97B,8970000000.00,Consumer Non-Durables,Food Distributors,NYSE,dpz
+WPM,Wheaton Precious Metals Corp.,20.26,$8.96B,8960000000.00,Basic Industries,Precious Metals,NYSE,wpm
+BPL,Buckeye Partners L.P.,63.66,$8.95B,8950000000.00,Energy,Natural Gas Distribution,NYSE,bpl
+BR,"Broadridge Financial Solutions, Inc.",76.08,$8.95B,8950000000.00,Miscellaneous,Business Services,NYSE,br
+IEX,IDEX Corporation,117.04,$8.93B,8930000000.00,Capital Goods,Fluid Controls,NYSE,iex
+KKR,KKR & Co. L.P.,19.31,$8.92B,8920000000.00,Finance,Investment Managers,NYSE,kkr
+VXUS,Vanguard Total International Stock ETF,53.77,$8.92B,8920000000.00,NA,NA,NASDAQ,vxus
+KT,KT Corporation,18.17,$8.9B,8900000000.00,Public Utilities,Telecommunications Equipment,NYSE,kt
+QRVO,"Qorvo, Inc.",69.54,$8.84B,8840000000.00,Technology,Semiconductors,NASDAQ,qrvo
+AFG,"American Financial Group, Inc.",100.73,$8.83B,8830000000.00,Finance,Property-Casualty Insurers,NYSE,afg
+ALKS,Alkermes plc,57.57,$8.82B,8820000000.00,Health Care,Major Pharmaceuticals,NASDAQ,alks
+INGR,Ingredion Incorporated,123.1,$8.82B,8820000000.00,Consumer Non-Durables,Packaged Foods,NYSE,ingr
+SEE,Sealed Air Corporation,45.06,$8.82B,8820000000.00,Basic Industries,Major Chemicals,NYSE,see
+STLD,"Steel Dynamics, Inc.",36.34,$8.79B,8790000000.00,Basic Industries,Steel/Iron Ore,NASDAQ,stld
+UGI,UGI Corporation,50.74,$8.78B,8780000000.00,Public Utilities,Natural Gas Distribution,NYSE,ugi
+CC,Chemours Company (The),47.52,$8.77B,8770000000.00,Basic Industries,Major Chemicals,NYSE,cc
+TEAM,Atlassian Corporation Plc,38.84,$8.76B,8760000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,team
+SCZ,iShares MSCI EAFE Small-Cap ETF,59.55,$8.73B,8730000000.00,NA,NA,NASDAQ,scz
+MOMO,Momo Inc.,44.01,$8.68B,8680000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,momo
+CPL,CPFL Energia S.A.,17.03,$8.67B,8670000000.00,Public Utilities,Electric Utilities: Central,NYSE,cpl
+GOLD,Randgold Resources Limited,92.09,$8.66B,8660000000.00,Basic Industries,Precious Metals,NASDAQ,gold
+UAA,"Under Armour, Inc.",19.65,$8.65B,8650000000.00,Consumer Non-Durables,Apparel,NYSE,uaa
+IEP,Icahn Enterprises L.P.,53.9,$8.64B,8640000000.00,Capital Goods,Auto Parts:O.E.M.,NASDAQ,iep
+RGA,"Reinsurance Group of America, Incorporated",134.18,$8.64B,8640000000.00,Finance,Life Insurance,NYSE,rga
+SNA,Snap-On Incorporated,150.04,$8.64B,8640000000.00,Capital Goods,Industrial Machinery/Components,NYSE,sna
+NI,"NiSource, Inc",26.51,$8.59B,8590000000.00,Public Utilities,Power Generation,NYSE,ni
+SPLK,Splunk Inc.,62.06,$8.59B,8590000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,splk
+MAC,Macerich Company (The),60.35,$8.56B,8560000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,mac
+AYI,Acuity Brands Inc,202.95,$8.54B,8540000000.00,Consumer Durables,Building Products,NYSE,ayi
+HBI,Hanesbrands Inc.,23.39,$8.52B,8520000000.00,Consumer Services,Clothing/Shoe/Accessory Stores,NYSE,hbi
+HOG,"Harley-Davidson, Inc.",48.64,$8.51B,8510000000.00,Consumer Non-Durables,Motor Vehicles,NYSE,hog
+MTN,"Vail Resorts, Inc.",212.75,$8.51B,8510000000.00,Consumer Services,Services-Misc. Amusement & Recreation,NYSE,mtn
+NWS,News Corporation,14.6,$8.49B,8490000000.00,Consumer Services,Newspapers/Magazines,NASDAQ,nws
+BHFWV,"Brighthouse Financial, Inc.",69.0842,$8.48B,8480000000.00,Finance,Life Insurance,NASDAQ,bhfwv
+IPG,"Interpublic Group of Companies, Inc. (The)",21.44,$8.47B,8470000000.00,Technology,Advertising,NYSE,ipg
+TTWO,"Take-Two Interactive Software, Inc.",81.46,$8.46B,8460000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,ttwo
+IAC,IAC/InterActiveCorp,107.27,$8.44B,8440000000.00,Consumer Services,Other Specialty Stores,NASDAQ,iac
+IPGP,IPG Photonics Corporation,157.3,$8.44B,8440000000.00,Technology,Semiconductors,NASDAQ,ipgp
+MBT,Mobile TeleSystems OJSC,8.64,$8.44B,8440000000.00,Public Utilities,Telecommunications Equipment,NYSE,mbt
+KIM,Kimco Realty Corporation,19.74,$8.4B,8400000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,kim
+LULU,lululemon athletica inc.,61.47,$8.4B,8400000000.00,Consumer Non-Durables,Apparel,NASDAQ,lulu
+ZG,"Zillow Group, Inc.",45.59,$8.39B,8390000000.00,Miscellaneous,Business Services,NASDAQ,zg
+WRB,W.R. Berkley Corporation,69.07,$8.37B,8370000000.00,Finance,Property-Casualty Insurers,NYSE,wrb
+Z,"Zillow Group, Inc.",45.44,$8.36B,8360000000.00,Miscellaneous,Business Services,NASDAQ,z
+AER,Aercap Holdings N.V.,48.8,$8.29B,8290000000.00,Technology,Diversified Commercial Services,NYSE,aer
+EWBC,"East West Bancorp, Inc.",57.38,$8.29B,8290000000.00,Finance,Major Banks,NASDAQ,ewbc
+FFIV,"F5 Networks, Inc.",128.2,$8.29B,8290000000.00,Technology,Computer Communications Equipment,NASDAQ,ffiv
+JKHY,"Jack Henry & Associates, Inc.",106.69,$8.28B,8280000000.00,Technology,EDP Services,NASDAQ,jkhy
+MOS,Mosaic Company (The),23.6,$8.28B,8280000000.00,Basic Industries,Agricultural Chemicals,NYSE,mos
+NWSA,News Corporation,14.23,$8.28B,8280000000.00,Consumer Services,Newspapers/Magazines,NASDAQ,nwsa
+ODFL,"Old Dominion Freight Line, Inc.",100.4,$8.28B,8280000000.00,Transportation,Trucking Freight/Courier Services,NASDAQ,odfl
+CGNX,Cognex Corporation,95.4,$8.27B,8270000000.00,Capital Goods,Industrial Machinery/Components,NASDAQ,cgnx
+TRU,TransUnion,45.53,$8.24B,8240000000.00,Finance,Finance: Consumer Services,NYSE,tru
+EXEL,"Exelixis, Inc.",28.02,$8.2B,8200000000.00,Health Care,Biotechnology: Commercial Physical & Biological Resarch,NASDAQ,exel
+AVY,Avery Dennison Corporation,92.34,$8.18B,8180000000.00,Consumer Durables,Containers/Packaging,NYSE,avy
+TSU,TIM Participacoes S.A.,16.88,$8.17B,8170000000.00,Public Utilities,Telecommunications Equipment,NYSE,tsu
+VER,VEREIT Inc.,8.33,$8.12B,8120000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,ver
+SSNC,"SS&C Technologies Holdings, Inc.",39.68,$8.1B,8100000000.00,Technology,Computer Software: Prepackaged Software,NASDAQ,ssnc
+CLNS,"Colony NorthStar, Inc.",14.66,$8.08B,8080000000.00,Consumer Services,Real Estate Investment Trusts,NYSE,clns
+LDOS,"Leidos Holdings, Inc.",53.48,$8.08B,8080000000.00,Technology,EDP Services,NYSE,ldos
+MRVL,Marvell Technology Group Ltd.,16.05,$8.07B,8070000000.00,Technology,Semiconductors,NASDAQ,mrvl
+CCK,"Crown Holdings, Inc.",59.23,$8.02B,8020000000.00,Consumer Durables,Containers/Packaging,NYSE,cck
+SHOP,Shopify Inc.,93.92,$8.02B,8020000000.00,Technology,Computer Software: Prepackaged Software,NYSE,shop
+WCG,"WellCare Health Plans, Inc.",180.04,$8.01B,8010000000.00,Health Care,Medical Specialities,NYSE,wcg
+GLPI,"Gaming and Leisure Properties, Inc.",38.29,$7.97B,7970000000.00,Consumer Services,Real Estate Investment Trusts,NASDAQ,glpi
+ZAYO,"Zayo Group Holdings, Inc.",32.4,$7.96B,7960000000.00,Public Utilities,Telecommunications Equipment,NYSE,zayo
+JWN,"Nordstrom, Inc.",47.86,$7.95B,7950000000.00,Consumer Services,Clothing/Shoe/Accessory Stores,NYSE,jwn
+TKC,Turkcell Iletisim Hizmetleri AS,9,$7.92B,7920000000.00,Public Utilities,Telecommunications Equipment,NYSE,tkc
+AAP,Advance Auto Parts Inc,106.7,$7.88B,7880000000.00,Consumer Services,Other Specialty Stores,NYSE,aap
+AZUL,Azul S.A.,25.39,$7.86B,7860000000.00,Transportation,Air Freight/Delivery Services,NYSE,azul
